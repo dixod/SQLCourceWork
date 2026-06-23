@@ -1,0 +1,4875 @@
+city_name,country_name,data_quality_code
+Gardez,Afghanistan,0
+Herat,Afghanistan,0
+Jalalabad,Afghanistan,0
+Kabul,Afghanistan,1
+Mazar-e Sharif,Afghanistan,0
+Shibirghan,Afghanistan,0
+Berat,Albania,0
+Durres,Albania,1
+Elbasan,Albania,0
+Fier,Albania,0
+Fushe-Kruje,Albania,0
+Gjirokaster,Albania,0
+Gramsh,Albania,0
+Korce,Albania,0
+Kruje,Albania,0
+Lezhe,Albania,0
+Lushnje,Albania,0
+Peshkopi,Albania,0
+Shkoder,Albania,0
+Tirana,Albania,1
+Vlore,Albania,1
+Adrar,Algeria,0
+Ain Defla,Algeria,0
+Algiers,Algeria,1
+Azazga,Algeria,0
+Batna,Algeria,0
+Bejaia,Algeria,0
+Biskra,Algeria,0
+Blida,Algeria,1
+Bordj Bou Arreridj,Algeria,0
+Bouira,Algeria,0
+Boumerdes,Algeria,0
+Chlef,Algeria,0
+Constantine,Algeria,1
+Djelfa,Algeria,0
+El Bayadh,Algeria,0
+Ghardaia,Algeria,0
+Guelma,Algeria,0
+Hassi Messaoud,Algeria,0
+Jijel,Algeria,0
+Laghouat,Algeria,0
+Mascara,Algeria,0
+Medea,Algeria,0
+Mostaganem,Algeria,0
+Setif,Algeria,1
+Sidi Bel Abbes,Algeria,0
+Skikda,Algeria,0
+Souk Ahras,Algeria,0
+Tamanrasset,Algeria,0
+Tebessa,Algeria,0
+Tiaret,Algeria,0
+Tindouf,Algeria,0
+Tizi Ouzou,Algeria,0
+Tlemcen,Algeria,0
+Pago Pago,American Samoa,0
+Andorra la Vella,Andorra,0
+Escaldes-Engordany,Andorra,0
+Sant Julia de Loria,Andorra,0
+Benguela,Angola,0
+Cabinda,Angola,0
+Caluquembe,Angola,0
+Luanda,Angola,0
+Ndalatando,Angola,0
+The Valley,Anguilla,0
+Saint John's,Antigua And Barbuda,0
+Avellaneda,Argentina,0
+Bahia Blanca,Argentina,0
+Buenos Aires,Argentina,1
+Comodoro Rivadavia,Argentina,0
+Cordoba,Argentina,1
+Corrientes,Argentina,0
+Formosa,Argentina,0
+Isidro Casanova,Argentina,0
+La Plata,Argentina,0
+La Rioja,Argentina,0
+Lanus,Argentina,0
+Lincoln,Argentina,0
+Lomas de Zamora,Argentina,0
+Mar del Plata,Argentina,0
+Mendoza,Argentina,0
+Parana,Argentina,0
+Resistencia,Argentina,0
+Rio Cuarto,Argentina,0
+Rio Gallegos,Argentina,0
+Rosario,Argentina,0
+San Carlos de Bariloche,Argentina,0
+San Juan,Argentina,0
+San Martin de los Andes,Argentina,0
+San Miguel de Tucuman,Argentina,0
+Santa Fe,Argentina,0
+Tandil,Argentina,0
+Victoria,Argentina,0
+Abovyan,Armenia,0
+Gyumri,Armenia,0
+Ijevan,Armenia,0
+Vanadzor,Armenia,0
+Yeghegnadzor,Armenia,0
+Yerevan,Armenia,1
+Oranjestad,Aruba,0
+Adelaide,Australia,1
+Alice Springs,Australia,0
+Ballarat,Australia,1
+Ballina,Australia,0
+Bowral,Australia,0
+Brisbane,Australia,1
+Broome,Australia,0
+Bunbury,Australia,0
+Bundaberg,Australia,0
+Busselton,Australia,0
+Caboolture,Australia,0
+Cairns,Australia,1
+Canberra,Australia,1
+Coffs Harbour,Australia,0
+Collie,Australia,0
+Cranbourne,Australia,0
+Dandenong,Australia,0
+Darwin,Australia,1
+Deniliquin,Australia,0
+Devonport,Australia,0
+Dubbo,Australia,0
+Frankston,Australia,0
+Geelong,Australia,1
+Georgetown,Australia,0
+Geraldton,Australia,0
+Gladstone,Australia,0
+Gold Coast,Australia,1
+Goulburn,Australia,0
+Gympie,Australia,0
+Hamilton,Australia,0
+Hobart,Australia,1
+Ipswich,Australia,0
+Katoomba,Australia,0
+Launceston,Australia,0
+Mackay,Australia,0
+Margaret River,Australia,0
+Melbourne,Australia,1
+Mildura,Australia,0
+Moe,Australia,0
+Mudgee,Australia,0
+Muswellbrook,Australia,0
+Newcastle,Australia,1
+Nowra,Australia,0
+Nuriootpa,Australia,0
+Perth,Australia,1
+Peterborough,Australia,0
+Port Douglas,Australia,0
+Port Hedland,Australia,0
+Port Lincoln,Australia,0
+Port Macquarie,Australia,0
+Portland,Australia,0
+Queenstown,Australia,0
+Richmond,Australia,0
+Rockhampton,Australia,0
+Scottsdale,Australia,0
+Shepparton,Australia,0
+Sydney,Australia,1
+Toowoomba,Australia,0
+Townsville,Australia,1
+Tweed Heads,Australia,0
+Wagga Wagga,Australia,0
+Warrnambool,Australia,0
+Wodonga,Australia,0
+Wollongong,Australia,1
+Bregenz,Austria,0
+Dornbirn,Austria,0
+Graz,Austria,1
+Innsbruck,Austria,1
+Klagenfurt,Austria,1
+Lienz,Austria,0
+Linz,Austria,1
+Modling,Austria,0
+Salzburg,Austria,1
+Sankt Polten,Austria,0
+Steyr,Austria,0
+Vienna,Austria,1
+Vocklabruck,Austria,0
+Wolfsberg,Austria,0
+Agstafa,Azerbaijan,0
+Bakixanov,Azerbaijan,0
+Baku,Azerbaijan,1
+Barda,Azerbaijan,0
+Lankaran,Azerbaijan,0
+Naxcivan,Azerbaijan,0
+Samkir,Azerbaijan,0
+Sumqayit,Azerbaijan,0
+Yardimli,Azerbaijan,0
+Yevlax,Azerbaijan,0
+Zaqatala,Azerbaijan,0
+Al Muharraq,Bahrain,0
+Madinat Hamad,Bahrain,0
+Manama,Bahrain,1
+Brahmanbaria,Bangladesh,0
+Comilla,Bangladesh,0
+Dhaka,Bangladesh,1
+Jamalpur,Bangladesh,0
+Jessore,Bangladesh,0
+Khulna,Bangladesh,0
+Narayanganj,Bangladesh,0
+Narsingdi,Bangladesh,0
+Pabna,Bangladesh,0
+Rajshahi,Bangladesh,0
+Sylhet,Bangladesh,1
+Tangail,Bangladesh,0
+Bridgetown,Barbados,1
+Baranavichy,Belarus,0
+Brest,Belarus,1
+Horad Barysaw,Belarus,0
+Hrodna,Belarus,0
+Kobryn,Belarus,0
+Luninyets,Belarus,0
+Maladzyechna,Belarus,0
+Minsk,Belarus,1
+Navapolatsk,Belarus,0
+Pinsk,Belarus,0
+Salihorsk,Belarus,0
+Slonim,Belarus,0
+Aalst,Belgium,0
+Aarschot,Belgium,0
+Antwerp,Belgium,1
+Arlon,Belgium,0
+Braine-l'Alleud,Belgium,0
+Brasschaat,Belgium,0
+Bruges,Belgium,1
+Brussels,Belgium,1
+Charleroi,Belgium,0
+Dendermonde,Belgium,0
+Dilbeek,Belgium,0
+Geel,Belgium,0
+Genk,Belgium,0
+Gent,Belgium,1
+Geraardsbergen,Belgium,0
+Hasselt,Belgium,0
+Heist-op-den-Berg,Belgium,0
+Herentals,Belgium,0
+Kortrijk,Belgium,0
+Leuven,Belgium,1
+Liege,Belgium,1
+Louvain-la-Neuve,Belgium,0
+Mechelen,Belgium,0
+Mortsel,Belgium,0
+Mouscron,Belgium,0
+Namur,Belgium,0
+Neerpelt,Belgium,0
+Roeselare,Belgium,0
+Sint-Gillis-Waas,Belgium,0
+Sint-Niklaas,Belgium,0
+Sint-Pieters-Leeuw,Belgium,0
+Sint-Truiden,Belgium,0
+Spa,Belgium,0
+Tienen,Belgium,0
+Tongeren,Belgium,0
+Tournai,Belgium,0
+Turnhout,Belgium,0
+Vilvoorde,Belgium,0
+Waterloo,Belgium,0
+Belize City,Belize,1
+Belmopan,Belize,0
+Orange Walk,Belize,0
+Punta Gorda,Belize,0
+San Ignacio,Belize,0
+Cotonou,Benin,0
+Hamilton,Bermuda,1
+Paro,Bhutan,0
+Punakha,Bhutan,0
+Thimphu,Bhutan,1
+Bermejo,Bolivia,0
+Cobija,Bolivia,0
+Cochabamba,Bolivia,1
+La Paz,Bolivia,1
+San Ignacio de Velasco,Bolivia,0
+Sucre,Bolivia,0
+Tarija,Bolivia,0
+Banja Luka,Bosnia And Herzegovina,1
+Bihac,Bosnia And Herzegovina,0
+Bijeljina,Bosnia And Herzegovina,0
+Brcko,Bosnia And Herzegovina,0
+Bugojno,Bosnia And Herzegovina,0
+Capljina,Bosnia And Herzegovina,0
+Gorazde,Bosnia And Herzegovina,0
+Mostar,Bosnia And Herzegovina,1
+Prijedor,Bosnia And Herzegovina,0
+Sanski Most,Bosnia And Herzegovina,0
+Sarajevo,Bosnia And Herzegovina,1
+Tuzla,Bosnia And Herzegovina,1
+Zepce,Bosnia And Herzegovina,0
+Gaborone,Botswana,1
+Maun,Botswana,0
+Selibe Phikwe,Botswana,0
+Abaete,Brazil,0
+Alfenas,Brazil,0
+Almirante Tamandare,Brazil,0
+Americana,Brazil,0
+Angra dos Reis,Brazil,0
+Apucarana,Brazil,0
+Aquiraz,Brazil,0
+Aracaju,Brazil,0
+Aracatuba,Brazil,0
+Arapiraca,Brazil,0
+Araraquara,Brazil,0
+Araras,Brazil,0
+Araruama,Brazil,0
+Araxa,Brazil,0
+Armacao dos Buzios,Brazil,0
+Arroio do Meio,Brazil,0
+Atibaia,Brazil,0
+Avare,Brazil,0
+Balneario de Camboriu,Brazil,0
+Barbacena,Brazil,0
+Barreiras,Brazil,0
+Barretos,Brazil,0
+Barueri,Brazil,0
+Bauru,Brazil,0
+Belem,Brazil,0
+Belo Horizonte,Brazil,1
+Boa Vista,Brazil,0
+Botucatu,Brazil,0
+Brasilia,Brazil,1
+Cabo Frio,Brazil,0
+Cachoeira Alta,Brazil,0
+Cachoeiro de Itapemirim,Brazil,0
+Campina Grande,Brazil,0
+Campinas,Brazil,1
+Campo Grande,Brazil,0
+Campo Mourao,Brazil,0
+Campos do Jordao,Brazil,0
+Canoas,Brazil,0
+Canoinhas,Brazil,0
+Carapicuiba,Brazil,0
+Carazinho,Brazil,0
+Cariacica,Brazil,0
+Caruaru,Brazil,0
+Cascavel,Brazil,0
+Caucaia,Brazil,0
+Caxias do Sul,Brazil,0
+Chapeco,Brazil,0
+Codo,Brazil,0
+Colombo,Brazil,0
+Contagem,Brazil,0
+Cotia,Brazil,0
+Crato,Brazil,0
+Criciuma,Brazil,0
+Cruzeiro do Sul,Brazil,0
+Cuiaba,Brazil,0
+Curitiba,Brazil,1
+Dourados,Brazil,0
+Feira de Santana,Brazil,0
+Florianopolis,Brazil,1
+Fortaleza,Brazil,1
+Foz do Iguacu,Brazil,0
+Francisco Morato,Brazil,0
+Franco da Rocha,Brazil,0
+Goiana,Brazil,0
+Goiania,Brazil,1
+Governador Valadares,Brazil,0
+Guarapuava,Brazil,0
+Guarulhos,Brazil,0
+Iguacu,Brazil,0
+Ilheus,Brazil,0
+Imperatriz,Brazil,0
+Indaiatuba,Brazil,0
+Ipatinga,Brazil,0
+Itajai,Brazil,0
+Itajuba,Brazil,0
+Itapetininga,Brazil,0
+Itapevi,Brazil,0
+Itu,Brazil,0
+Jacarei,Brazil,0
+Jacobina,Brazil,0
+Jaragua do Sul,Brazil,0
+Joao Pessoa,Brazil,1
+Joinvile,Brazil,1
+Juazeiro do Norte,Brazil,0
+Juiz de Fora,Brazil,0
+Jundiai,Brazil,0
+Lavras,Brazil,0
+Limeira,Brazil,0
+Linhares,Brazil,0
+Londrina,Brazil,1
+Maceio,Brazil,0
+Mage,Brazil,0
+Mairipora,Brazil,0
+Manaus,Brazil,0
+Maraba,Brazil,0
+Marilia,Brazil,0
+Maringa,Brazil,1
+Medianeira,Brazil,0
+Mogi das Cruzes,Brazil,0
+Montes Claros,Brazil,0
+Mossoro,Brazil,0
+Natal,Brazil,1
+Niteroi,Brazil,1
+Nova Friburgo,Brazil,0
+Novo Hamburgo,Brazil,0
+Olinda,Brazil,0
+Osasco,Brazil,0
+Ouro Verde de Minas,Brazil,0
+Passo Fundo,Brazil,0
+Passos,Brazil,0
+Paulinia,Brazil,0
+Paulista,Brazil,0
+Paulo Afonso,Brazil,0
+Pelotas,Brazil,0
+Petrolina,Brazil,0
+Petropolis,Brazil,0
+Pindamonhangaba,Brazil,0
+Piracicaba,Brazil,0
+Piracununga,Brazil,0
+Ponta Grossa,Brazil,0
+Pontes e Lacerda,Brazil,0
+Porto Calvo,Brazil,1
+Porto Velho,Brazil,0
+Pouso Alegre,Brazil,0
+Praia Grande,Brazil,0
+Presidente Prudente,Brazil,0
+Recife,Brazil,1
+Registro,Brazil,0
+Ribeirao Preto,Brazil,0
+Rio Branco,Brazil,0
+Rio Claro,Brazil,0
+Rio Verde,Brazil,0
+Rio das Ostras,Brazil,0
+Rio de Janeiro,Brazil,1
+Rondonopolis,Brazil,0
+Rosario,Brazil,0
+Salvador,Brazil,1
+Santo Andre,Brazil,0
+Santos,Brazil,1
+Sao Bernardo do Campo,Brazil,0
+Sao Caetano do Sul,Brazil,0
+Sao Goncalo,Brazil,0
+Sao Goncalo dos Campos,Brazil,0
+Sao Jose do Rio Preto,Brazil,0
+Sao Jose dos Campos,Brazil,1
+Sao Leopoldo,Brazil,0
+Sao Paulo,Brazil,1
+Sao Vicente Ferrer,Brazil,0
+Serra,Brazil,0
+Sete Lagoas,Brazil,0
+Sinop,Brazil,0
+Sobral,Brazil,0
+Sorocaba,Brazil,1
+Taubate,Brazil,0
+Teresina,Brazil,0
+Teresopolis,Brazil,0
+Timbo,Brazil,0
+Toledo,Brazil,0
+Uberaba,Brazil,0
+Uberlandia,Brazil,0
+Valinhos,Brazil,0
+Vila Velha,Brazil,0
+Viseu,Brazil,0
+Vitoria,Brazil,1
+Vitoria da Conquista,Brazil,0
+Volta Redonda,Brazil,0
+Road Town,British Virgin Islands,0
+Bandar Seri Begawan,Brunei,1
+Kuala Belait,Brunei,0
+Asenovgrad,Bulgaria,0
+Blagoevgrad,Bulgaria,0
+Botevgrad,Bulgaria,0
+Burgas,Bulgaria,1
+Dobrich,Bulgaria,0
+Dupnitsa,Bulgaria,0
+Gabrovo,Bulgaria,0
+Haskovo,Bulgaria,0
+Kardzhali,Bulgaria,0
+Kazanlak,Bulgaria,0
+Kyustendil,Bulgaria,0
+Lovech,Bulgaria,0
+Pazardzhik,Bulgaria,0
+Pernik,Bulgaria,0
+Pleven,Bulgaria,0
+Plovdiv,Bulgaria,1
+Razgrad,Bulgaria,0
+Ruse,Bulgaria,0
+Samokov,Bulgaria,0
+Sandanski,Bulgaria,0
+Shumen,Bulgaria,0
+Silistra,Bulgaria,0
+Sliven,Bulgaria,0
+Smolyan,Bulgaria,0
+Sofia,Bulgaria,1
+Svishtov,Bulgaria,0
+Varna,Bulgaria,1
+Veliko Tarnovo,Bulgaria,0
+Vidin,Bulgaria,0
+Yambol,Bulgaria,0
+Ouagadougou,Burkina Faso,0
+Bujumbura,Burundi,0
+Battambang,Cambodia,0
+Kampong Cham,Cambodia,0
+Kampong Chhnang,Cambodia,0
+Kampong Thom,Cambodia,0
+Kampot,Cambodia,0
+Phnom Penh,Cambodia,1
+Pursat,Cambodia,0
+Siem Reap,Cambodia,0
+Sihanoukville,Cambodia,0
+Svay Rieng,Cambodia,0
+Bafoussam,Cameroon,0
+Bamenda,Cameroon,0
+Buea,Cameroon,0
+Douala,Cameroon,1
+Limbe,Cameroon,0
+Ngaoundere,Cameroon,0
+Yaounde,Cameroon,1
+Abbotsford,Canada,0
+Ajax,Canada,0
+Baie-Comeau,Canada,0
+Banff,Canada,0
+Barrie,Canada,1
+Belleville,Canada,0
+Brampton,Canada,1
+Brandon,Canada,0
+Brantford,Canada,0
+Burlington,Canada,1
+Burnaby,Canada,1
+Calgary,Canada,1
+Cambridge,Canada,0
+Campbell River,Canada,0
+Canmore,Canada,0
+Castlegar,Canada,0
+Charlottetown,Canada,1
+Chateauguay,Canada,0
+Chilliwack,Canada,0
+Cobourg,Canada,0
+Comox,Canada,0
+Coquitlam,Canada,1
+Corner Brook,Canada,0
+Cornwall,Canada,0
+Courtenay,Canada,0
+Cranbrook,Canada,0
+Delta,Canada,0
+Edmonton,Canada,1
+Flin Flon,Canada,0
+Fort Erie,Canada,0
+Fort Saskatchewan,Canada,0
+Fort St. John,Canada,0
+Fredericton,Canada,1
+Gatineau,Canada,1
+Granby,Canada,0
+Guelph,Canada,1
+Halifax,Canada,1
+Hamilton,Canada,1
+Innisfil,Canada,0
+Iqaluit,Canada,0
+Kamloops,Canada,1
+Kelowna,Canada,1
+Kitchener,Canada,1
+La Ronge,Canada,0
+Langley,Canada,0
+Laval,Canada,1
+Lethbridge,Canada,1
+Lloydminster,Canada,0
+London,Canada,1
+Maple Ridge,Canada,0
+Markham,Canada,1
+Mascouche,Canada,0
+Midland,Canada,0
+Mississauga,Canada,1
+Moncton,Canada,1
+Montreal,Canada,1
+Moose Jaw,Canada,0
+Nanaimo,Canada,1
+Newmarket,Canada,0
+North Vancouver,Canada,1
+Oakville,Canada,1
+Orangeville,Canada,0
+Orillia,Canada,0
+Oshawa,Canada,1
+Ottawa,Canada,1
+Parry Sound,Canada,0
+Peace River,Canada,0
+Penticton,Canada,0
+Peterborough,Canada,1
+Pickering,Canada,0
+Powell River,Canada,0
+Prince Albert,Canada,0
+Prince George,Canada,1
+Prince Rupert,Canada,0
+Quebec City,Canada,1
+Red Deer,Canada,1
+Regina,Canada,1
+Richmond,Canada,1
+Rimouski,Canada,0
+Riviere-du-Loup,Canada,0
+Rouyn-Noranda,Canada,0
+Saanich,Canada,0
+Saguenay,Canada,0
+Salaberry-de-Valleyfield,Canada,0
+Salmon Arm,Canada,0
+Sarnia,Canada,1
+Saskatoon,Canada,1
+Sault Ste. Marie,Canada,1
+Sechelt,Canada,0
+Sept-Iles,Canada,0
+Sherbrooke,Canada,0
+Spruce Grove,Canada,0
+Squamish,Canada,0
+St. Albert,Canada,0
+St. Catharines,Canada,1
+St. Thomas,Canada,0
+Sudbury,Canada,1
+Summerside,Canada,0
+Surrey,Canada,1
+Swift Current,Canada,0
+Timmins,Canada,0
+Toronto,Canada,1
+Trois-Rivieres,Canada,0
+Truro,Canada,0
+Vancouver,Canada,1
+Vaughan,Canada,1
+Vernon,Canada,1
+Victoria,Canada,1
+Victoriaville,Canada,0
+Waterloo,Canada,0
+Welland,Canada,0
+Whistler,Canada,0
+Whitby,Canada,0
+White Rock,Canada,0
+Whitehorse,Canada,0
+Williams Lake,Canada,0
+Windsor,Canada,1
+Winnipeg,Canada,1
+Yellowknife,Canada,0
+Yorkton,Canada,0
+N'Djamena,Chad,0
+Antofagasta,Chile,0
+Arica,Chile,0
+Chillan,Chile,0
+Concepcion,Chile,1
+Concon,Chile,0
+Copiapo,Chile,0
+Coquimbo,Chile,0
+Coronel,Chile,0
+Curico,Chile,0
+Iquique,Chile,0
+La Serena,Chile,0
+Osorno,Chile,0
+Puente Alto,Chile,0
+Puerto Natales,Chile,0
+Punta Arenas,Chile,0
+Rancagua,Chile,0
+Salamanca,Chile,0
+San Bernardo,Chile,0
+Santiago,Chile,1
+Talca,Chile,0
+Talcahuano,Chile,0
+Temuco,Chile,0
+Valdivia,Chile,0
+Valparaiso,Chile,0
+Victoria,Chile,0
+Villa Alemana,Chile,0
+Vina del Mar,Chile,1
+Ankang,China,0
+Anqing,China,0
+Anshan,China,0
+Baoding,China,0
+Baojishi,China,0
+Baotou,China,0
+Beijing,China,1
+Bozhou,China,0
+Cangzhou,China,0
+Changchun,China,0
+Changde,China,0
+Changzhou,China,0
+Chengdu,China,1
+Chenzhou,China,0
+Chifeng,China,0
+Chongqing,China,1
+Dalian,China,0
+Daqing,China,0
+Dezhou,China,0
+Dingzhou,China,0
+Dongguan,China,0
+Fenglu,China,0
+Foshan,China,0
+Fuquan,China,0
+Fushun,China,0
+Fuzhou,China,1
+Ganzhou,China,0
+Gongzhuling,China,0
+Guangzhou,China,1
+Guigang,China,0
+Guilin,China,0
+Haikou,China,0
+Hangzhou,China,1
+Harbin,China,0
+Hefei,China,0
+Heze,China,0
+Hohhot,China,0
+Huaibei,China,0
+Huaiyin,China,0
+Huanggang,China,0
+Huazhou,China,0
+Huizhou,China,0
+Jiangmen,China,0
+Jiaozuo,China,0
+Jinan,China,0
+Jiujiang,China,0
+Karamay,China,0
+Kunming,China,0
+Laiwu,China,0
+Lhasa,China,0
+Liaocheng,China,0
+Linyi,China,0
+Liuzhou,China,0
+Luoyang,China,0
+Luzhou,China,0
+Maoming,China,0
+Nanchang,China,0
+Nanchong,China,0
+Nanjing,China,1
+Nanning,China,0
+Nantong,China,0
+Nanyang,China,0
+Ningbo,China,1
+Pingdingshan,China,0
+Pingliang,China,0
+Putian,China,0
+Qingdao,China,1
+Quanzhou,China,0
+Quzhou,China,0
+Rizhao,China,0
+Sanya,China,0
+Shanghai,China,1
+Shantou,China,0
+Shenyang,China,1
+Shenzhen,China,1
+Shijiazhuang,China,0
+Suzhou,China,1
+Taiyuan,China,0
+Taizhou,China,0
+Tianjin,China,1
+Tongshan,China,0
+Urumqi,China,0
+Weifang,China,0
+Weihai,China,0
+Wuhan,China,1
+Wuxi,China,0
+Xi'an,China,1
+Xiamen,China,0
+Xiangshui,China,0
+Xiangyang,China,0
+Xichang,China,0
+Xining,China,0
+Yancheng,China,0
+Yangjiang,China,0
+Yantai,China,0
+Yinchuan,China,0
+Yulin,China,0
+Zaozhuang,China,0
+Zhanjiang,China,0
+Zhaoqing,China,0
+Zhengzhou,China,1
+Zhenjiang,China,0
+Zhongshan,China,0
+Zhuhai,China,0
+Zibo,China,0
+Armenia,Colombia,0
+Barranquilla,Colombia,1
+Bello,Colombia,0
+Bogota,Colombia,1
+Bucaramanga,Colombia,1
+Cali,Colombia,1
+Cartagena,Colombia,1
+Cartago,Colombia,0
+Cucuta,Colombia,0
+Envigado,Colombia,0
+Facatativa,Colombia,0
+Floridablanca,Colombia,0
+Ibague,Colombia,0
+Leticia,Colombia,0
+Maicao,Colombia,0
+Manizales,Colombia,1
+Medellin,Colombia,1
+Neiva,Colombia,0
+Pereira,Colombia,1
+Popayan,Colombia,0
+Santa Marta,Colombia,0
+Sincelejo,Colombia,0
+Soledad,Colombia,0
+Tunja,Colombia,0
+Valledupar,Colombia,0
+Villavicencio,Colombia,0
+Moroni,Comoros,0
+Avarua,Cook Islands,0
+Alajuela,Costa Rica,1
+Heredia,Costa Rica,1
+Bjelovar,Croatia,0
+Cakovec,Croatia,0
+Crikvenica,Croatia,0
+Dubrovnik,Croatia,1
+Karlovac,Croatia,0
+Koprivnica,Croatia,0
+Nasice,Croatia,0
+Nova Gradiska,Croatia,0
+Osijek,Croatia,1
+Pula,Croatia,1
+Rijeka,Croatia,1
+Rovinj,Croatia,0
+Sibenik,Croatia,0
+Sisak,Croatia,0
+Slavonski Brod,Croatia,0
+Split,Croatia,1
+Varazdin,Croatia,0
+Virovitica,Croatia,0
+Vukovar,Croatia,0
+Zadar,Croatia,1
+Zagreb,Croatia,1
+Zupanja,Croatia,0
+Bayamo,Cuba,0
+Cienfuegos,Cuba,0
+Havana,Cuba,1
+Las Tunas,Cuba,0
+Sancti Spiritus,Cuba,0
+Santa Clara,Cuba,0
+Santiago de Cuba,Cuba,0
+Trinidad,Cuba,0
+Varadero,Cuba,0
+Aradippou,Cyprus,0
+Famagusta,Cyprus,0
+Larnaca,Cyprus,1
+Limassol,Cyprus,1
+Nicosia,Cyprus,1
+Paphos,Cyprus,1
+Paralimni,Cyprus,0
+Aalborg,Denmark,1
+Aarhus,Denmark,1
+Copenhagen,Denmark,1
+Esbjerg,Denmark,0
+Frederikshavn,Denmark,0
+Hillerod,Denmark,0
+Odense,Denmark,1
+Roskilde,Denmark,0
+Svendborg,Denmark,0
+Vejle,Denmark,1
+Ali Sabieh,Djibouti,0
+Djibouti,Djibouti,0
+Roseau,Dominica,0
+Azua,Dominican Republic,0
+Bajos de Haina,Dominican Republic,0
+Barahona,Dominican Republic,0
+Boca Chica,Dominican Republic,0
+Bonao,Dominican Republic,0
+El Seibo,Dominican Republic,0
+Higuey,Dominican Republic,0
+La Romana,Dominican Republic,0
+Puerto Plata,Dominican Republic,0
+San Francisco de Macoris,Dominican Republic,0
+San Pedro de Macoris,Dominican Republic,0
+Santo Domingo,Dominican Republic,1
+Sosua,Dominican Republic,0
+Ambato,Ecuador,0
+Babahoyo,Ecuador,0
+Bahia de Caraquez,Ecuador,0
+Banos,Ecuador,0
+Cuenca,Ecuador,1
+Esmeraldas,Ecuador,0
+Guayaquil,Ecuador,1
+Loja,Ecuador,0
+Manta,Ecuador,0
+Puerto Ayora,Ecuador,0
+Quevedo,Ecuador,0
+Quito,Ecuador,1
+Tulcan,Ecuador,0
+Abnub,Egypt,0
+Al Minya,Egypt,0
+Al `Arish,Egypt,0
+Alexandria,Egypt,1
+Aswan,Egypt,0
+Asyut,Egypt,0
+Az Zaqaziq,Egypt,0
+Banha,Egypt,0
+Cairo,Egypt,1
+Damanhur,Egypt,0
+Damietta,Egypt,0
+Giza,Egypt,1
+Ismailia,Egypt,0
+Kafr ash Shaykh,Egypt,0
+Luxor,Egypt,0
+Matruh,Egypt,0
+Port Said,Egypt,0
+Shibin al Kawm,Egypt,0
+Shubra al Khaymah,Egypt,0
+Suez,Egypt,0
+Tanta,Egypt,1
+Santa Tecla,El Salvador,0
+Sonsonate,El Salvador,0
+Bata,Equatorial Guinea,0
+Malabo,Equatorial Guinea,0
+Asmara,Eritrea,0
+Haapsalu,Estonia,0
+Johvi,Estonia,0
+Kohtla-Jarve,Estonia,0
+Kuressaare,Estonia,0
+Paide,Estonia,0
+Parnu,Estonia,0
+Polva,Estonia,0
+Rakvere,Estonia,0
+Tallinn,Estonia,1
+Tartu,Estonia,1
+Valga,Estonia,0
+Viljandi,Estonia,0
+Addis Ababa,Ethiopia,1
+Debre Zeyit,Ethiopia,0
+Dire Dawa,Ethiopia,0
+Jima,Ethiopia,0
+Mekele,Ethiopia,0
+Nazret,Ethiopia,0
+Klaksvik,Faroe Islands,0
+Nordhragota,Faroe Islands,0
+Torshavn,Faroe Islands,0
+Vestmanna,Faroe Islands,0
+Lautoka,Fiji,0
+Nausori,Fiji,0
+Suva,Fiji,1
+Espoo,Finland,1
+Hameenlinna,Finland,0
+Helsinki,Finland,1
+Hyvinkaa,Finland,0
+Jarvenpaa,Finland,0
+Joensuu,Finland,0
+Jyvaskyla,Finland,1
+Kajaani,Finland,0
+Kokkola,Finland,0
+Kotka,Finland,0
+Kouvola,Finland,0
+Kuopio,Finland,0
+Lahti,Finland,0
+Lappeenranta,Finland,0
+Lohja,Finland,0
+Mikkeli,Finland,0
+Oulu,Finland,1
+Pori,Finland,0
+Porvoo,Finland,0
+Rovaniemi,Finland,0
+Salo,Finland,0
+Seinajoki,Finland,0
+Tampere,Finland,1
+Turku,Finland,1
+Tuusula,Finland,0
+Vaasa,Finland,0
+Vantaa,Finland,0
+Acheres,France,0
+Aix-en-Provence,France,1
+Ajaccio,France,0
+Albertville,France,0
+Amiens,France,0
+Angers,France,0
+Annecy,France,1
+Annemasse,France,0
+Antibes,France,1
+Antony,France,0
+Auxerre,France,0
+Avignon,France,0
+Bastia,France,0
+Besancon,France,0
+Bethune,France,0
+Beziers,France,0
+Biarritz,France,0
+Bobigny,France,0
+Bordeaux,France,1
+Boulogne-Billancourt,France,0
+Bourgoin-Jallieu,France,0
+Brest,France,0
+Caen,France,0
+Cagnes-sur-Mer,France,0
+Cannes,France,0
+Cergy,France,0
+Chalon-sur-Saone,France,0
+Chambery,France,0
+Champigny-sur-Marne,France,0
+Chanteloup-les-Vignes,France,0
+Chartres,France,0
+Chateauroux,France,0
+Chatou,France,0
+Cherbourg,France,0
+Cholet,France,0
+Clamart,France,0
+Clermont-Ferrand,France,0
+Clichy,France,0
+Colmar,France,0
+Compiegne,France,0
+Courbevoic,France,0
+Dijon,France,0
+Divonne-les-Bains,France,0
+Douai,France,0
+Dunkerque,France,0
+Evry,France,0
+Fayence,France,0
+Ferney-Voltaire,France,0
+Fontaines-sur-Saone,France,0
+Grenoble,France,1
+Guyancourt,France,0
+La Garenne-Colombes,France,0
+La Rochelle,France,0
+La Seyne-sur-Mer,France,0
+Lambersart,France,0
+Le Bourget,France,0
+Le Havre,France,0
+Le Mans,France,0
+Lille,France,1
+Limoges,France,0
+Lorient,France,0
+Lyon,France,1
+Maisons-Alfort,France,0
+Marseille,France,1
+Massy,France,0
+Meaux,France,0
+Melun,France,0
+Menton,France,0
+Merignac,France,0
+Metz,France,0
+Mont-de-Marsan,France,0
+Montceau-les-Mines,France,0
+Montevrain,France,0
+Montpellier,France,1
+Montreuil,France,0
+Mulhouse,France,0
+Nancy,France,0
+Nantes,France,1
+Neuilly-sur-Seine,France,0
+Nice,France,1
+Nimes,France,0
+Niort,France,0
+Orleans,France,0
+Paris,France,1
+Pau,France,0
+Perpignan,France,0
+Poissy,France,0
+Poitiers,France,0
+Puteaux,France,0
+Quimper,France,0
+Rambouillet,France,0
+Reims,France,0
+Rennes,France,0
+Rodez,France,0
+Rouen,France,0
+Rueil-Malmaison,France,0
+Saint-Etienne,France,0
+Saint-Louis,France,0
+Saint-Martin-de-Crau,France,0
+Saint-Maur-des-Fosses,France,0
+Saintes,France,0
+Serris,France,0
+Strasbourg,France,1
+Talence,France,0
+Thoiry,France,0
+Thonon-les-Bains,France,0
+Toulon,France,0
+Toulouse,France,1
+Tourcoing,France,0
+Tours,France,0
+Troyes,France,0
+Villefranche-sur-Saone,France,0
+Villeurbanne,France,0
+Vitry-sur-Seine,France,0
+Cayenne,French Guiana,0
+Papeete,French Polynesia,0
+Libreville,Gabon,0
+Batumi,Georgia,1
+Borjomi,Georgia,0
+Gori,Georgia,0
+Gurjaani,Georgia,0
+Khoni,Georgia,0
+Samtredia,Georgia,0
+Tbilisi,Georgia,1
+Zugdidi,Georgia,0
+Aachen,Germany,1
+Aalen,Germany,0
+Ainring,Germany,0
+Annaberg-Buchholz,Germany,0
+Ansbach,Germany,0
+Aschaffenburg,Germany,0
+Augsburg,Germany,1
+Bad Honnef am Rhein,Germany,0
+Bad Kreuznach,Germany,0
+Bad Mergentheim,Germany,0
+Bad Nauheim,Germany,0
+Bad Salzuflen,Germany,0
+Bamberg,Germany,0
+Bayreuth,Germany,0
+Bergisch Gladbach,Germany,0
+Berlin,Germany,1
+Bielefeld,Germany,1
+Bochum,Germany,1
+Bonn,Germany,1
+Bottrop,Germany,0
+Braunschweig,Germany,1
+Bremen,Germany,1
+Bremerhaven,Germany,0
+Bruchsal,Germany,0
+Buckeburg,Germany,0
+Celle,Germany,0
+Chemnitz,Germany,0
+Cologne,Germany,1
+Cottbus,Germany,0
+Crailsheim,Germany,0
+Darmstadt,Germany,1
+Dessau-Rosslau,Germany,0
+Dortmund,Germany,1
+Dresden,Germany,1
+Duisburg,Germany,0
+Dusseldorf,Germany,1
+Erfurt,Germany,0
+Erlangen,Germany,1
+Erlenbach am Main,Germany,0
+Essen,Germany,1
+Fellbach,Germany,0
+Flensburg,Germany,0
+Frankfurt,Germany,1
+Frankfurt (Oder),Germany,0
+Freiburg im Breisgau,Germany,1
+Friedrichsdorf,Germany,0
+Friedrichshafen,Germany,0
+Fulda,Germany,0
+Furstenfeldbruck,Germany,0
+Gelsenkirchen,Germany,0
+Giessen,Germany,0
+Gottingen,Germany,1
+Greifswald,Germany,0
+Gross-Umstadt,Germany,0
+Gummersbach,Germany,0
+Haag in Oberbayern,Germany,0
+Hagen,Germany,0
+Halle,Germany,0
+Hamburg,Germany,1
+Hamm,Germany,0
+Hannover,Germany,1
+Heidelberg,Germany,1
+Heilbronn,Germany,0
+Herzogenaurach,Germany,0
+Herzogenrath,Germany,0
+Hildesheim,Germany,0
+Husum,Germany,0
+Ingolstadt,Germany,1
+Jena,Germany,1
+Kaiserslautern,Germany,0
+Karlsruhe,Germany,1
+Kassel,Germany,0
+Kaufbeuren,Germany,0
+Kempten,Germany,0
+Kiel,Germany,1
+Kleve,Germany,0
+Koblenz,Germany,0
+Krefeld,Germany,0
+Landsberg,Germany,0
+Landshut,Germany,0
+Leipzig,Germany,1
+Leonberg,Germany,0
+Leverkusen,Germany,0
+Lubeck,Germany,0
+Ludwigshafen,Germany,0
+Magdeburg,Germany,0
+Mainz,Germany,1
+Mannheim,Germany,1
+Marburg,Germany,0
+Minden,Germany,0
+Moers,Germany,0
+Monchengladbach,Germany,0
+Mulheim,Germany,0
+Munich,Germany,1
+Munster,Germany,1
+Neu-Ulm,Germany,0
+Neubiberg,Germany,0
+Neuss,Germany,0
+Nuremberg,Germany,1
+Oberhausen,Germany,0
+Offenburg,Germany,0
+Oldenburg,Germany,0
+Oranienburg,Germany,0
+Osnabruck,Germany,1
+Paderborn,Germany,1
+Passau,Germany,0
+Pfaffenhofen,Germany,0
+Pforzheim,Germany,0
+Potsdam,Germany,0
+Ravensburg,Germany,0
+Recklinghausen,Germany,0
+Regensburg,Germany,1
+Remscheid,Germany,0
+Reutlingen,Germany,0
+Rosenheim,Germany,0
+Rostock,Germany,0
+Rudesheim am Rhein,Germany,0
+Russelsheim,Germany,0
+Saarbrucken,Germany,1
+Salzgitter,Germany,0
+Schramberg,Germany,0
+Schwabach,Germany,0
+Schweinfurt,Germany,0
+Schwerin,Germany,0
+Siegen,Germany,0
+Soest,Germany,0
+Solingen,Germany,0
+Stuttgart,Germany,1
+Trier,Germany,0
+Tubingen,Germany,0
+Ulm,Germany,1
+Villingen-Schwenningen,Germany,0
+Waiblingen,Germany,0
+Wangen im Allgau,Germany,0
+Weingarten,Germany,0
+Wesel,Germany,0
+Wetzlar,Germany,0
+Wiesbaden,Germany,1
+Wilhelmshaven,Germany,0
+Witten,Germany,0
+Wolfenbuttel,Germany,0
+Wolfsburg,Germany,0
+Worms,Germany,0
+Wuppertal,Germany,0
+Wurzburg,Germany,1
+Zweibrucken,Germany,0
+Zwickau,Germany,0
+Accra,Ghana,1
+Ho,Ghana,0
+Koforidua,Ghana,0
+Kumasi,Ghana,0
+Tamale,Ghana,0
+Gibraltar,Gibraltar,1
+Agia Paraskevi,Greece,0
+Agrinio,Greece,0
+Alexandroupoli,Greece,0
+Athens,Greece,1
+Chalkida,Greece,0
+Chania,Greece,1
+Chios,Greece,0
+Ermoupoli,Greece,0
+Farsala,Greece,0
+Glyfada,Greece,0
+Ioannina,Greece,1
+Kalamata,Greece,0
+Karditsa,Greece,0
+Katerini,Greece,0
+Kavala,Greece,1
+Kilkis,Greece,0
+Komotini,Greece,0
+Lamia,Greece,0
+Larisa,Greece,1
+Livadeia,Greece,0
+Mytilini,Greece,0
+Nafpaktos,Greece,0
+Nafplio,Greece,0
+Nikaia,Greece,0
+Palaio Faliro,Greece,0
+Patra,Greece,1
+Peristeri,Greece,0
+Porto Rafti,Greece,0
+Preveza,Greece,0
+Pyrgos,Greece,0
+Rethymno,Greece,0
+Thessaloniki,Greece,1
+Trikala,Greece,0
+Volos,Greece,1
+Vrilissia,Greece,0
+Xanthi,Greece,1
+Ilulissat,Greenland,0
+Nuuk,Greenland,0
+Qaqortoq,Greenland,0
+Sisimiut,Greenland,0
+Pointe-a-Pitre,Guadeloupe,0
+Chichicastenango,Guatemala,0
+Chiquimula,Guatemala,0
+Guatemala City,Guatemala,1
+Petapa,Guatemala,0
+Quetzaltenango,Guatemala,0
+Conakry,Guinea,0
+Bissau,Guinea-Bissau,0
+Georgetown,Guyana,1
+Vreed-en-Hoop,Guyana,0
+Carrefour,Haiti,0
+Jacmel,Haiti,0
+Les Cayes,Haiti,0
+Petion-Ville,Haiti,0
+Port-au-Prince,Haiti,0
+Catacamas,Honduras,0
+Choloma,Honduras,0
+Ciudad Choluteca,Honduras,0
+Comayaguela,Honduras,0
+El Progreso,Honduras,0
+La Ceiba,Honduras,0
+Roatan,Honduras,0
+San Pedro Sula,Honduras,0
+Siguatepeque,Honduras,0
+Tegucigalpa,Honduras,1
+Yoro,Honduras,0
+Hong Kong,Hong Kong,1
+Ajka,Hungary,0
+Bekescsaba,Hungary,0
+Budakeszi,Hungary,0
+Budaors,Hungary,0
+Budapest,Hungary,1
+Csongrad,Hungary,0
+Csorna,Hungary,0
+Debrecen,Hungary,1
+Dunafoldvar,Hungary,0
+Dunakeszi,Hungary,0
+Dunaujvaros,Hungary,0
+Eger,Hungary,0
+Esztergom,Hungary,0
+Godollo,Hungary,0
+Gyongyos,Hungary,0
+Gyor,Hungary,1
+Hodmezovasarhely,Hungary,0
+Jaszladany,Hungary,0
+Kalocsa,Hungary,0
+Kaposvar,Hungary,0
+Kecskemet,Hungary,0
+Keszthely,Hungary,0
+Kiskunfelegyhaza,Hungary,0
+Kisvarda,Hungary,0
+Komlo,Hungary,0
+Koszeg,Hungary,0
+Miskolc,Hungary,1
+Mohacs,Hungary,0
+Nagykanizsa,Hungary,0
+Nyergesujfalu,Hungary,0
+Nyiregyhaza,Hungary,0
+Paszto,Hungary,0
+Pecs,Hungary,1
+Salgotarjan,Hungary,0
+Siofok,Hungary,0
+Sopron,Hungary,1
+Szeged,Hungary,1
+Szekesfehervar,Hungary,1
+Szekszard,Hungary,0
+Szentendre,Hungary,0
+Szolnok,Hungary,0
+Szombathely,Hungary,1
+Tatabanya,Hungary,0
+Veszprem,Hungary,1
+Zalaegerszeg,Hungary,0
+Akureyri,Iceland,0
+Egilsstadhir,Iceland,0
+Hafnarfjordhur,Iceland,0
+Keflavik,Iceland,0
+Kopavogur,Iceland,0
+Reykjavik,Iceland,1
+Agartala,India,0
+Agra,India,0
+Ahmedabad,India,1
+Aizawl,India,0
+Ajmer,India,0
+Akola,India,0
+Aligarh,India,0
+Allahabad,India,0
+Amalapuram,India,0
+Amravati,India,0
+Amritsar,India,0
+Anantapur,India,0
+Asansol,India,0
+Aurangabad,India,1
+Bangalore,India,1
+Bankura,India,0
+Barakpur,India,0
+Barasat,India,0
+Bareilly,India,0
+Begusarai,India,0
+Belgaum,India,0
+Bhagalpur,India,0
+Bharuch,India,0
+Bhatinda,India,0
+Bhavnagar,India,0
+Bhilai,India,0
+Bhilwara,India,0
+Bhiwandi,India,0
+Bhopal,India,1
+Bhubaneshwar,India,1
+Bhuj,India,0
+Bijapur,India,0
+Bikaner,India,0
+Bilaspur,India,0
+Burhanpur,India,0
+Chandigarh,India,1
+Chennai,India,1
+Cherukuru,India,0
+Chittaurgarh,India,0
+Chittoor,India,0
+Coimbatore,India,1
+Cuttack,India,0
+Dehra Dun,India,1
+Delhi,India,1
+Dhanbad,India,0
+Dharmsala,India,0
+Dhulia,India,0
+Dibrugarh,India,0
+Dispur,India,0
+Durgapur,India,0
+Elakkurichchi,India,0
+Ellore,India,0
+Erode,India,0
+Faridabad,India,1
+Fatehpur,India,0
+Ganga Sagar,India,0
+Gangtok,India,0
+Ghaziabad,India,0
+Gorakhpur,India,0
+Gulbarga,India,0
+Guntur,India,0
+Gurgaon,India,1
+Guwahati,India,1
+Gwalior,India,0
+Haldia,India,0
+Hanumangarh,India,0
+Hisar,India,0
+Hubli,India,0
+Hyderabad,India,1
+Imphal,India,0
+Indore,India,1
+Jabalpur,India,1
+Jaipur,India,1
+Jalandhar,India,0
+Jalgaon,India,0
+Jammu,India,1
+Jamnagar,India,0
+Jamshedpur,India,0
+Jhansi,India,0
+Jodhpur,India,0
+Kakinada,India,0
+Kalyan,India,0
+Karavadi,India,0
+Karimnagar,India,0
+Karnal,India,0
+Khammam,India,0
+Kharagpur,India,0
+Kochi,India,1
+Kolhapur,India,0
+Kolkata,India,1
+Kota,India,0
+Krishnanagar,India,0
+Krishnapur,India,0
+Kumbakonam,India,0
+Kurnool,India,0
+Latur,India,0
+Lucknow,India,1
+Ludhiana,India,1
+Machilipatnam,India,0
+Madurai,India,0
+Mandsaur,India,0
+Mangalore,India,1
+Meerut,India,0
+Moradabad,India,0
+Mumbai,India,1
+Munagapaka,India,0
+Muzaffarpur,India,0
+Mysore,India,0
+Nagercoil,India,0
+Nagpur,India,1
+Nallacheruvu,India,0
+Nanded,India,0
+Nandyal,India,0
+Nasik,India,0
+Navsari,India,0
+Nellore,India,0
+Pakala,India,0
+Panaji,India,0
+Panipat,India,0
+Patiala,India,0
+Patna,India,1
+Pithapuram,India,0
+Ponnuru,India,0
+Puducherry,India,0
+Pune,India,1
+Puri,India,0
+Purnea,India,0
+Raiganj,India,0
+Raipur,India,0
+Rajahmundry,India,0
+Rajkot,India,1
+Ranchi,India,0
+Raurkela,India,0
+Rohtak,India,0
+Saharanpur,India,0
+Salem,India,0
+Sambalpur,India,0
+Sangli,India,0
+Shiliguri,India,0
+Shillong,India,0
+Shimla,India,0
+Silchar,India,0
+Silvassa,India,0
+Sirsa,India,0
+Solapur,India,0
+Sonipat,India,0
+Srinagar,India,0
+Surat,India,1
+Tenali,India,0
+Thane,India,1
+Thiruvananthapuram,India,1
+Tinsukia,India,0
+Tirupati,India,0
+Tiruppur,India,0
+Tiruvannamalai,India,0
+Titagarh,India,0
+Tumkur,India,0
+Udaipur,India,0
+Udayagiri,India,0
+Udhampur,India,0
+Ujjain,India,0
+Ulhasnagar,India,0
+Vadodara,India,1
+Varanasi,India,0
+Vishakhapatnam,India,1
+Vizianagaram,India,0
+Warangal,India,0
+Ambon,Indonesia,0
+Balikpapan,Indonesia,0
+Banda Aceh,Indonesia,0
+Bandar Lampung,Indonesia,0
+Bandung,Indonesia,1
+Banjarmasin,Indonesia,0
+Bekasi,Indonesia,0
+Bogor,Indonesia,0
+Cimahi,Indonesia,0
+Cirebon,Indonesia,0
+Denpasar,Indonesia,1
+Depok,Indonesia,0
+Jakarta,Indonesia,1
+Jambi,Indonesia,0
+Jayapura,Indonesia,0
+Kediri,Indonesia,0
+Madiun,Indonesia,0
+Makassar,Indonesia,0
+Malang,Indonesia,0
+Manado,Indonesia,0
+Mataram,Indonesia,0
+Medan,Indonesia,1
+Mojokerto,Indonesia,0
+Padang,Indonesia,0
+Palangkaraya,Indonesia,0
+Palembang,Indonesia,0
+Pekanbaru,Indonesia,0
+Pematangsiantar,Indonesia,0
+Pontianak,Indonesia,0
+Samarinda,Indonesia,0
+Semarang,Indonesia,0
+Sibolga,Indonesia,0
+Surabaya,Indonesia,1
+Surakarta,Indonesia,0
+Tangerang,Indonesia,1
+Tanjungbalai,Indonesia,0
+Tanjungpandan,Indonesia,0
+Tanjungpinang,Indonesia,0
+Tasikmalaya,Indonesia,0
+Yogyakarta,Indonesia,1
+Ahvaz,Iran,0
+Aligudarz,Iran,0
+Amol,Iran,0
+Andimeshk,Iran,0
+Arak,Iran,0
+Ardabil,Iran,0
+Babol,Iran,0
+Bandar-e Bushehr,Iran,0
+Bojnurd,Iran,0
+Borujerd,Iran,0
+Dezful,Iran,0
+Esfahan,Iran,1
+Gonbad-e Kavus,Iran,0
+Gorgan,Iran,0
+Hamadan,Iran,0
+Karaj,Iran,1
+Kerman,Iran,0
+Kermanshah,Iran,0
+Mahabad,Iran,0
+Malayer,Iran,0
+Mashhad,Iran,1
+Masjed Soleyman,Iran,0
+Orumiyeh,Iran,0
+Qazvin,Iran,0
+Qom,Iran,0
+Rasht,Iran,0
+Sanandaj,Iran,0
+Shahr-e Kord,Iran,0
+Shiraz,Iran,1
+Tabriz,Iran,1
+Tehran,Iran,1
+Torbat-e Heydariyeh,Iran,0
+Varamin,Iran,0
+Yasuj,Iran,0
+Yazd,Iran,0
+Zabol,Iran,0
+Zanjan,Iran,0
+Ad Diwaniyah,Iraq,0
+Al Basrah,Iraq,0
+Al Fallujah,Iraq,0
+Al Kufah,Iraq,0
+Al Kut,Iraq,0
+Al `Amarah,Iraq,0
+An Najaf,Iraq,0
+An Nasiriyah,Iraq,0
+Ar Ramadi,Iraq,0
+As Samawah,Iraq,0
+As Sulaymaniyah,Iraq,1
+Az Zubayr,Iraq,0
+Ba`qubah,Iraq,0
+Baghdad,Iraq,1
+Dahuk,Iraq,0
+Erbil,Iraq,1
+Karbala',Iraq,0
+Kirkuk,Iraq,0
+Kuysinjaq,Iraq,0
+Mosul,Iraq,0
+Tikrit,Iraq,0
+Zakhu,Iraq,0
+Carlow,Ireland,0
+Carrick on Shannon,Ireland,0
+Castlebar,Ireland,0
+Cork,Ireland,1
+Drogheda,Ireland,0
+Dublin,Ireland,1
+Ennis,Ireland,0
+Galway,Ireland,1
+Kilkenny,Ireland,0
+Killarney,Ireland,0
+Limerick,Ireland,1
+Longford,Ireland,0
+Monaghan,Ireland,0
+Mullingar,Ireland,0
+Naas,Ireland,0
+Port Laoise,Ireland,0
+Sligo,Ireland,0
+Swords,Ireland,0
+Tralee,Ireland,0
+Tullamore,Ireland,0
+Waterford,Ireland,1
+Wexford,Ireland,1
+Douglas,Isle Of Man,1
+Arad,Israel,0
+Ashdod,Israel,1
+Ashqelon,Israel,0
+Bat Yam,Israel,1
+Beersheba,Israel,1
+Eilat,Israel,0
+Givatayim,Israel,0
+Hadera,Israel,1
+Haifa,Israel,1
+Herzliyya,Israel,1
+Hod HaSharon,Israel,0
+Holon,Israel,0
+Jerusalem,Israel,1
+Karmiel,Israel,0
+Kefar Sava,Israel,1
+Lod,Israel,0
+Nahariyya,Israel,0
+Nazareth,Israel,0
+Netanya,Israel,1
+Or Yehuda,Israel,0
+Pardes Hanna Karkur,Israel,0
+Petah Tiqwa,Israel,1
+Qiryat Bialik,Israel,0
+Qiryat Mozqin,Israel,0
+Qiryat Ono,Israel,0
+Qiryat Shemona,Israel,0
+Ra`ananna,Israel,1
+Ramat Gan,Israel,1
+Ramat HaSharon,Israel,0
+Ramla,Israel,0
+Rehovot,Israel,1
+Rishon LeZiyyon,Israel,1
+Tel Aviv-Yafo,Israel,1
+Yoqne`am `Illit,Israel,0
+Agrigento,Italy,0
+Alessandria,Italy,0
+Alghero,Italy,0
+Amalfi,Italy,0
+Ancona,Italy,1
+Aosta,Italy,0
+Arese,Italy,1
+Arezzo,Italy,0
+Ariano Irpino,Italy,0
+Ascoli Piceno,Italy,0
+Asti,Italy,0
+Avellino,Italy,0
+Aversa,Italy,0
+Avezzano,Italy,0
+Bari,Italy,1
+Barletta,Italy,0
+Beinasco,Italy,0
+Belluno,Italy,0
+Benevento,Italy,0
+Bergamo,Italy,1
+Bertinoro,Italy,0
+Biella,Italy,0
+Bologna,Italy,1
+Boscoreale,Italy,0
+Bra,Italy,0
+Brescia,Italy,1
+Brindisi,Italy,0
+Bucine,Italy,0
+Busto Arsizio,Italy,0
+Cagliari,Italy,1
+Campobasso,Italy,0
+Canegrate,Italy,0
+Canosa di Puglia,Italy,0
+Cantu,Italy,0
+Capannori,Italy,0
+Capriate San Gervasio,Italy,0
+Capua,Italy,0
+Carrara,Italy,0
+Casandrino,Italy,0
+Cassino,Italy,0
+Castellammare di Stabia,Italy,0
+Castrolibero,Italy,0
+Catania,Italy,1
+Catanzaro,Italy,0
+Cattolica,Italy,0
+Cava de' Tirreni,Italy,0
+Ceglie Messapico,Italy,0
+Cerignola,Italy,0
+Cesena,Italy,0
+Cesenatico,Italy,0
+Chieti,Italy,0
+Cisterna di Latina,Italy,0
+Citta di Castello,Italy,0
+Cittadella,Italy,0
+Civitanova Marche,Italy,0
+Civitavecchia,Italy,0
+Colleferro,Italy,0
+Como,Italy,1
+Conegliano,Italy,0
+Corleone,Italy,0
+Cortina d'Ampezzo,Italy,0
+Cosenza,Italy,0
+Crema,Italy,0
+Cremona,Italy,0
+Crotone,Italy,0
+Cuneo,Italy,0
+Domodossola,Italy,0
+Falconara Marittima,Italy,0
+Fano,Italy,0
+Feltre,Italy,0
+Ferrara,Italy,0
+Fidenza,Italy,0
+Finale Emilia,Italy,0
+Florence,Italy,1
+Foggia,Italy,0
+Frascati,Italy,0
+Frattamaggiore,Italy,0
+Gallarate,Italy,0
+Gela,Italy,0
+Genoa,Italy,1
+Giaveno,Italy,0
+Gorizia,Italy,0
+Grosseto,Italy,0
+Iglesias,Italy,0
+Imola,Italy,0
+L'Aquila,Italy,0
+La Spezia,Italy,0
+Ladispoli,Italy,0
+Latina,Italy,0
+Lecce,Italy,1
+Lecco,Italy,0
+Levanto,Italy,0
+Lipari,Italy,0
+Livigno,Italy,0
+Livorno,Italy,0
+Lodi,Italy,0
+Lucca,Italy,0
+Macerata,Italy,0
+Mantova,Italy,0
+Matera,Italy,0
+Melito di Porto Salvo,Italy,0
+Messina,Italy,0
+Mestre,Italy,0
+Milan,Italy,1
+Mirano,Italy,0
+Modena,Italy,1
+Montecatini Terme,Italy,0
+Monza,Italy,1
+Naples,Italy,1
+Nembro,Italy,0
+Novara,Italy,0
+Nuoro,Italy,0
+Olbia,Italy,0
+Orvieto,Italy,0
+Ostuni,Italy,0
+Padova,Italy,1
+Palermo,Italy,1
+Parma,Italy,1
+Pavia,Italy,1
+Perugia,Italy,1
+Pesaro,Italy,0
+Pescara,Italy,1
+Piacenza,Italy,0
+Pinerolo,Italy,0
+Pisa,Italy,1
+Pistoia,Italy,0
+Pordenone,Italy,1
+Portico di Caserta,Italy,0
+Potenza,Italy,0
+Pozzuoli,Italy,0
+Prato,Italy,0
+Ragusa,Italy,0
+Ravenna,Italy,0
+Reggio Emilia,Italy,1
+Reggio di Calabria,Italy,0
+Rho,Italy,0
+Rieti,Italy,0
+Rimini,Italy,1
+Rome,Italy,1
+Salerno,Italy,0
+San Dona di Piave,Italy,0
+San Giorgio a Cremano,Italy,0
+San Giuliano Terme,Italy,0
+San Martino Buon Albergo,Italy,0
+San Remo,Italy,0
+Santa Margherita Ligure,Italy,0
+Santa Maria Capua Vetere,Italy,0
+Saronno,Italy,0
+Sassari,Italy,0
+Sassuolo,Italy,0
+Savona,Italy,0
+Schio,Italy,0
+Sesto San Giovanni,Italy,0
+Siena,Italy,1
+Siniscola,Italy,0
+Siracusa,Italy,0
+Sondrio,Italy,0
+Sorrento,Italy,0
+Stradella,Italy,0
+Taglio,Italy,0
+Taranto,Italy,0
+Teramo,Italy,0
+Terni,Italy,0
+Terracina,Italy,0
+Tortona,Italy,0
+Trani,Italy,0
+Trapani,Italy,0
+Trento,Italy,1
+Treviglio,Italy,0
+Treviso,Italy,1
+Trieste,Italy,1
+Turin,Italy,1
+Udine,Italy,1
+Varazze,Italy,0
+Venice,Italy,1
+Ventimiglia,Italy,0
+Vercelli,Italy,0
+Verona,Italy,1
+Viareggio,Italy,0
+Vicenza,Italy,1
+Vigevano,Italy,0
+Villacidro,Italy,0
+Viterbo,Italy,0
+Vittorio Veneto,Italy,0
+Voghera,Italy,0
+Black River,Jamaica,0
+Half Way Tree,Jamaica,0
+Kingston,Jamaica,1
+Mandeville,Jamaica,0
+May Pen,Jamaica,0
+Portmore,Jamaica,0
+Saint Ann's Bay,Jamaica,0
+Spanish Town,Jamaica,0
+Amagasaki,Japan,0
+Aomori,Japan,0
+Asahikawa,Japan,0
+Beppu,Japan,0
+Chiba,Japan,0
+Fujisawa,Japan,0
+Fukuoka,Japan,1
+Fukuyama,Japan,0
+Gifu,Japan,0
+Hachioji,Japan,0
+Hamamatsu,Japan,0
+Hekinan,Japan,0
+Himeji,Japan,0
+Hirakata,Japan,0
+Hiroshima,Japan,0
+Ichikawa,Japan,0
+Isesaki,Japan,0
+Kagoshima,Japan,0
+Kamakurayama,Japan,0
+Kanazawa,Japan,0
+Kashiwa,Japan,0
+Kawagoe,Japan,0
+Kawaguchi,Japan,0
+Kawasaki,Japan,0
+Kitakyushu,Japan,0
+Kobe,Japan,0
+Kochi,Japan,0
+Koriyama,Japan,0
+Koshigaya,Japan,0
+Kumamoto,Japan,0
+Kurume,Japan,0
+Kyoto,Japan,1
+Maebashi,Japan,0
+Matsudo,Japan,0
+Matsuyama,Japan,0
+Mito,Japan,0
+Miyazaki,Japan,0
+Morioka,Japan,0
+Nagano,Japan,0
+Nagasaki,Japan,0
+Nagoya,Japan,1
+Naha,Japan,0
+Narita,Japan,0
+Nasushiobara,Japan,0
+Niigata,Japan,0
+Obihiro,Japan,0
+Odawara,Japan,0
+Oita,Japan,0
+Okayama,Japan,0
+Okazaki,Japan,0
+Okinawa,Japan,1
+Osaka,Japan,1
+Otsu,Japan,0
+Sagamihara,Japan,0
+Saitama,Japan,0
+Sapporo,Japan,0
+Sendai,Japan,0
+Setagaya,Japan,0
+Shinjuku,Japan,0
+Shizuoka,Japan,0
+Suginami-ku,Japan,0
+Takamatsu,Japan,0
+Toda,Japan,0
+Tokorozawa,Japan,0
+Tokyo,Japan,1
+Toyama,Japan,0
+Toyohashi,Japan,0
+Toyonaka,Japan,0
+Toyota,Japan,0
+Tsu,Japan,0
+Tsukubamirai,Japan,0
+Utsunomiya,Japan,0
+Wakayama,Japan,0
+Yokohama,Japan,1
+Yokosuka,Japan,0
+Saint Helier,Jersey,1
+Al Mafraq,Jordan,0
+Al `Aqabah,Jordan,0
+Amman,Jordan,1
+As Salt,Jordan,0
+At Tafilah,Jordan,0
+At Turrah,Jordan,0
+Az Zarqa',Jordan,0
+Irbid,Jordan,0
+Madaba,Jordan,0
+Almaty,Kazakhstan,1
+Aqtobe,Kazakhstan,0
+Atyrau,Kazakhstan,0
+Ekibastuz,Kazakhstan,0
+Nur-Sultan,Kazakhstan,1
+Oral,Kazakhstan,0
+Oskemen,Kazakhstan,0
+Pavlodar,Kazakhstan,0
+Petropavl,Kazakhstan,0
+Qapshaghay,Kazakhstan,0
+Qostanay,Kazakhstan,0
+Qyzylorda,Kazakhstan,0
+Rudnyy,Kazakhstan,0
+Semey,Kazakhstan,0
+Shymkent,Kazakhstan,1
+Taraz,Kazakhstan,0
+Garissa,Kenya,0
+Homa Bay,Kenya,0
+Kericho,Kenya,0
+Kiambu,Kenya,0
+Kilifi,Kenya,0
+Kisii,Kenya,0
+Kisumu,Kenya,0
+Machakos,Kenya,0
+Meru,Kenya,0
+Migori,Kenya,0
+Mombasa,Kenya,0
+Nairobi,Kenya,1
+Nakuru,Kenya,0
+Nyeri,Kenya,0
+Al Jahra',Kuwait,0
+Kuwait City,Kuwait,1
+Bishkek,Kyrgyzstan,1
+Cholpon-Ata,Kyrgyzstan,0
+Osh,Kyrgyzstan,0
+Louangphabang,Laos,0
+Savannakhet,Laos,0
+Vientiane,Laos,0
+Aizkraukle,Latvia,0
+Cesis,Latvia,0
+Daugavpils,Latvia,0
+Gulbene,Latvia,0
+Jekabpils,Latvia,0
+Jelgava,Latvia,0
+Jurmala,Latvia,0
+Liepaja,Latvia,1
+Madona,Latvia,0
+Ogre,Latvia,0
+Rezekne,Latvia,0
+Riga,Latvia,1
+Saldus,Latvia,0
+Talsi,Latvia,0
+Ventspils,Latvia,0
+Baabda,Lebanon,0
+Baalbek,Lebanon,0
+Beirut,Lebanon,1
+Sidon,Lebanon,0
+Tripoli,Lebanon,0
+Zahle,Lebanon,0
+Maseru,Lesotho,0
+Fish Town,Liberia,0
+Greenville,Liberia,0
+Monrovia,Liberia,0
+Ajdabiya,Libya,0
+Al Bayda',Libya,0
+Al Khums,Libya,0
+Al `Aziziyah,Libya,0
+Az Zawiyah,Libya,0
+Benghazi,Libya,1
+Misratah,Libya,0
+Mizdah,Libya,0
+Murzuq,Libya,0
+Sabratah,Libya,0
+Tobruk,Libya,0
+Tripoli,Libya,1
+Balzers,Liechtenstein,0
+Ruggell,Liechtenstein,0
+Schaan,Liechtenstein,0
+Triesen,Liechtenstein,0
+Vaduz,Liechtenstein,0
+Alytus,Lithuania,0
+Druskininkai,Lithuania,0
+Jurbarkas,Lithuania,0
+Kaunas,Lithuania,1
+Kedainiai,Lithuania,0
+Klaipeda,Lithuania,1
+Kretinga,Lithuania,0
+Marijampole,Lithuania,0
+Mazeikiai,Lithuania,0
+Palanga,Lithuania,0
+Panevezys,Lithuania,0
+Plunge,Lithuania,0
+Radviliskis,Lithuania,0
+Raseiniai,Lithuania,0
+Siauliai,Lithuania,0
+Ukmerge,Lithuania,0
+Utena,Lithuania,0
+Vilnius,Lithuania,1
+Visaginas,Lithuania,0
+Diekirch,Luxembourg,0
+Differdange,Luxembourg,0
+Echternach,Luxembourg,0
+Esch-sur-Alzette,Luxembourg,0
+Grevenmacher,Luxembourg,0
+Luxembourg,Luxembourg,1
+Mersch,Luxembourg,0
+Wiltz,Luxembourg,0
+Antananarivo,Madagascar,1
+Antsirabe,Madagascar,0
+Fianarantsoa,Madagascar,0
+Mahajanga,Madagascar,0
+Toamasina,Madagascar,0
+Toliara,Madagascar,0
+Blantyre,Malawi,0
+Dedza,Malawi,0
+Lilongwe,Malawi,1
+Alor Setar,Malaysia,0
+Batu Pahat,Malaysia,0
+Bintulu,Malaysia,0
+Bukit Mertajam,Malaysia,0
+Butterworth,Malaysia,0
+Ipoh,Malaysia,0
+Johor Bahru,Malaysia,1
+Klang,Malaysia,1
+Kluang,Malaysia,0
+Kota Bharu,Malaysia,0
+Kota Kinabalu,Malaysia,1
+Kuala Lipis,Malaysia,0
+Kuala Lumpur,Malaysia,1
+Kuala Terengganu,Malaysia,0
+Kuantan,Malaysia,0
+Kuching,Malaysia,1
+Labuan,Malaysia,0
+Melaka,Malaysia,0
+Miri,Malaysia,0
+Muar,Malaysia,0
+Petaling Jaya,Malaysia,1
+Putrajaya,Malaysia,0
+Seremban,Malaysia,0
+Shah Alam,Malaysia,1
+Sibu,Malaysia,0
+Sungai Petani,Malaysia,0
+Kulhudhuffushi,Maldives,0
+Male,Maldives,1
+Bamako,Mali,0
+Attard,Malta,0
+Birkirkara,Malta,0
+Birzebbuga,Malta,0
+Fgura,Malta,0
+Floriana,Malta,0
+Gharb,Malta,0
+Gudja,Malta,0
+Gzira,Malta,1
+Hamrun,Malta,0
+Imdina,Malta,0
+Imgarr,Malta,0
+Imsida,Malta,0
+Marsaxlokk,Malta,0
+Mosta,Malta,0
+Munxar,Malta,0
+Nadur,Malta,0
+Naxxar,Malta,0
+Qormi,Malta,0
+Qrendi,Malta,0
+Rabat,Malta,0
+San Gwann,Malta,0
+Siggiewi,Malta,0
+Sliema,Malta,1
+Swieqi,Malta,0
+Ta' Xbiex,Malta,0
+Tarxien,Malta,0
+Valletta,Malta,1
+Xaghra,Malta,0
+Xewkija,Malta,0
+Xghajra,Malta,0
+Zabbar,Malta,0
+Zebbug,Malta,0
+Zejtun,Malta,0
+Zurrieq,Malta,0
+Majuro,Marshall Islands,0
+Fort-de-France,Martinique,0
+Nouakchott,Mauritania,0
+Centre de Flacq,Mauritius,0
+Curepipe,Mauritius,0
+Acapulco de Juarez,Mexico,0
+Aguascalientes,Mexico,1
+Campeche,Mexico,0
+Cancun,Mexico,1
+Celaya,Mexico,0
+Chetumal,Mexico,0
+Chihuahua,Mexico,1
+Chilapa de Alvarez,Mexico,0
+Chilpancingo,Mexico,0
+Chimalhuacan,Mexico,0
+Cholula de Rivadabia,Mexico,0
+Ciudad Apodaca,Mexico,0
+Ciudad Benito Juarez,Mexico,1
+Ciudad General Escobedo,Mexico,0
+Ciudad Hidalgo,Mexico,0
+Ciudad Obregon,Mexico,0
+Ciudad Victoria,Mexico,0
+Ciudad del Carmen,Mexico,0
+Coatzacoalcos,Mexico,0
+Colima,Mexico,0
+Cordoba,Mexico,0
+Cozumel,Mexico,0
+Cuautitlan Izcalli,Mexico,0
+Cuautla,Mexico,0
+Cuernavaca,Mexico,0
+Culiacan,Mexico,0
+Durango,Mexico,0
+Ecatepec,Mexico,0
+Ensenada,Mexico,1
+Fresnillo,Mexico,0
+Guadalajara,Mexico,1
+Guanajuato,Mexico,0
+Hermosillo,Mexico,1
+Heroica Matamoros,Mexico,0
+Heroica Nogales,Mexico,0
+Irapuato,Mexico,0
+Isla Mujeres,Mexico,0
+Ixtapa Zihuatanejo,Mexico,0
+Juarez,Mexico,0
+Leon de los Aldama,Mexico,0
+Los Mochis,Mexico,0
+Mazatlan,Mexico,0
+Merida,Mexico,1
+Mexicali,Mexico,0
+Mexico City,Mexico,1
+Monclova,Mexico,0
+Monterrey,Mexico,1
+Morelia,Mexico,0
+Naucalpan de Juarez,Mexico,0
+Nuevo Laredo,Mexico,0
+Pachuca,Mexico,0
+Piedras Negras,Mexico,0
+Playa del Carmen,Mexico,1
+Poza Rica de Hidalgo,Mexico,0
+Puebla,Mexico,1
+Puerto Escondido,Mexico,0
+Puerto Vallarta,Mexico,1
+Queretaro,Mexico,1
+Reynosa,Mexico,0
+Salamanca,Mexico,0
+Saltillo,Mexico,0
+San Juan del Rio,Mexico,0
+San Luis Potosi,Mexico,1
+San Luis Rio Colorado,Mexico,0
+San Miguel de Allende,Mexico,1
+San Nicolas de los Garza,Mexico,0
+San Pedro Garza Garcia,Mexico,0
+Tampico,Mexico,0
+Tapachula,Mexico,0
+Tepic,Mexico,0
+Tequisquiapan,Mexico,0
+Texcoco,Mexico,0
+Tijuana,Mexico,1
+Tixtla de Guerrero,Mexico,0
+Tlalnepantla,Mexico,0
+Tlaxcala,Mexico,0
+Toluca,Mexico,1
+Torreon,Mexico,0
+Tuxtla,Mexico,0
+Valladolid,Mexico,0
+Valparaiso,Mexico,0
+Veracruz,Mexico,0
+Villahermosa,Mexico,0
+Zacatecas,Mexico,0
+Zacatelco,Mexico,0
+Zapopan,Mexico,1
+Zihuatanejo,Mexico,0
+Balti,Moldova,0
+Cahul,Moldova,0
+Chisinau,Moldova,1
+Criuleni,Moldova,0
+Dubasari,Moldova,0
+Glodeni,Moldova,0
+Orhei,Moldova,0
+Soldanesti,Moldova,0
+Taraclia,Moldova,0
+Tiraspol,Moldova,0
+Monaco,Monaco,0
+Erdenet,Mongolia,0
+Mandalgovi,Mongolia,0
+Ulaanbaatar,Mongolia,1
+Bar,Montenegro,0
+Budva,Montenegro,1
+Cetinje,Montenegro,0
+Danilovgrad,Montenegro,0
+Herceg Novi,Montenegro,0
+Kolasin,Montenegro,0
+Niksic,Montenegro,0
+Podgorica,Montenegro,1
+Tivat,Montenegro,0
+Ulcinj,Montenegro,0
+Zabljak,Montenegro,0
+Brades,Montserrat,0
+Agadir,Morocco,1
+Ain Taoujdat,Morocco,0
+Ait Melloul,Morocco,0
+Arfoud,Morocco,0
+Barrechid,Morocco,0
+Beni Mellal,Morocco,0
+Casablanca,Morocco,1
+El Jadid,Morocco,0
+Essaouira,Morocco,0
+Fes,Morocco,0
+Guelmim,Morocco,0
+Kenitra,Morocco,1
+Kouribga,Morocco,0
+Ksar El Kebir,Morocco,0
+Marrakech,Morocco,1
+Meknes,Morocco,1
+Mohammedia,Morocco,0
+Nador,Morocco,0
+Oued Zem,Morocco,0
+Oujda-Angad,Morocco,1
+Rabat,Morocco,1
+Settat,Morocco,0
+Sidi Qacem,Morocco,0
+Sidi Slimane,Morocco,0
+Tangier,Morocco,1
+Taounate,Morocco,0
+Taourirt,Morocco,0
+Taroudannt,Morocco,0
+Taza,Morocco,0
+Temara,Morocco,0
+Tetouan,Morocco,1
+Tiznit,Morocco,0
+Beira,Mozambique,0
+Chimoio,Mozambique,0
+Cidade de Nacala,Mozambique,0
+Inhambane,Mozambique,0
+Maputo,Mozambique,1
+Matola,Mozambique,0
+Tete,Mozambique,0
+Xai-Xai,Mozambique,0
+Mandalay,Myanmar,0
+Pyu,Myanmar,0
+Rangoon,Myanmar,0
+Swakopmund,Namibia,0
+Windhoek,Namibia,1
+Yaren,Nauru,0
+Baglung,Nepal,0
+Biratnagar,Nepal,0
+Butwal,Nepal,0
+Dadeldhura,Nepal,0
+Dhangadhi,Nepal,0
+Dharan,Nepal,0
+Janakpur,Nepal,0
+Kathmandu,Nepal,1
+Kirtipur,Nepal,0
+Pokhara,Nepal,0
+Tulsipur,Nepal,0
+'s-Hertogenbosch,Netherlands,1
+Alkmaar,Netherlands,0
+Almere,Netherlands,1
+Amersfoort,Netherlands,1
+Amstelveen,Netherlands,0
+Amsterdam,Netherlands,1
+Apeldoorn,Netherlands,0
+Arnhem,Netherlands,1
+Bergen op Zoom,Netherlands,0
+Beverwijk,Netherlands,0
+Breda,Netherlands,1
+Bussum,Netherlands,0
+Delft,Netherlands,1
+Den Helder,Netherlands,0
+Dordrecht,Netherlands,0
+Ede,Netherlands,0
+Eindhoven,Netherlands,1
+Emmen,Netherlands,0
+Enschede,Netherlands,1
+Etten-Leur,Netherlands,0
+Goes,Netherlands,0
+Gouda,Netherlands,0
+Groningen,Netherlands,1
+Haarlem,Netherlands,1
+Harderwijk,Netherlands,0
+Heerlen,Netherlands,0
+Hilversum,Netherlands,1
+Hoofddorp,Netherlands,0
+IJmuiden,Netherlands,0
+Leeuwarden,Netherlands,1
+Leiden,Netherlands,1
+Lelystad,Netherlands,0
+Loon op Zand,Netherlands,0
+Maastricht,Netherlands,1
+Nijmegen,Netherlands,1
+Oegstgeest,Netherlands,0
+Rijswijk,Netherlands,0
+Roermond,Netherlands,0
+Rotterdam,Netherlands,1
+Schiedam,Netherlands,0
+Sittard,Netherlands,0
+Spijkenisse,Netherlands,0
+Tiel,Netherlands,0
+Tilburg,Netherlands,1
+Utrecht,Netherlands,1
+Veendam,Netherlands,0
+Veenendaal,Netherlands,0
+Veldhoven,Netherlands,0
+Voerendaal,Netherlands,0
+Wageningen,Netherlands,0
+Zaandam,Netherlands,0
+Zeist,Netherlands,0
+Zoetermeer,Netherlands,0
+Zutphen,Netherlands,0
+Zwolle,Netherlands,0
+Noumea,New Caledonia,1
+Auckland,New Zealand,1
+Blenheim,New Zealand,0
+Christchurch,New Zealand,1
+Dunedin,New Zealand,1
+Feilding,New Zealand,0
+Gisborne,New Zealand,0
+Greymouth,New Zealand,0
+Invercargill,New Zealand,0
+Lower Hutt,New Zealand,0
+Manukau City,New Zealand,0
+Masterton,New Zealand,0
+Napier,New Zealand,0
+Nelson,New Zealand,0
+Palmerston North,New Zealand,1
+Porirua,New Zealand,0
+Rotorua,New Zealand,0
+Taupo,New Zealand,0
+Tauranga,New Zealand,1
+Te Awamutu,New Zealand,0
+Waihi,New Zealand,0
+Waitakere,New Zealand,0
+Wellington,New Zealand,1
+Whakatane,New Zealand,0
+Whanganui,New Zealand,0
+Whangarei,New Zealand,1
+Bluefields,Nicaragua,0
+Diriamba,Nicaragua,0
+Esteli,Nicaragua,0
+Jinotega,Nicaragua,0
+Leon,Nicaragua,0
+Managua,Nicaragua,1
+Matagalpa,Nicaragua,0
+Ocotal,Nicaragua,0
+Rivas,Nicaragua,0
+San Rafael del Sur,Nicaragua,0
+Niamey,Niger,0
+Aba,Nigeria,0
+Abakaliki,Nigeria,0
+Abeokuta,Nigeria,0
+Abuja,Nigeria,1
+Ado-Ekiti,Nigeria,0
+Akure,Nigeria,0
+Bauchi,Nigeria,0
+Benin City,Nigeria,0
+Calabar,Nigeria,0
+Enugu,Nigeria,0
+Gombe,Nigeria,0
+Ibadan,Nigeria,0
+Ikeja,Nigeria,0
+Ilorin,Nigeria,0
+Jos,Nigeria,0
+Kaduna,Nigeria,0
+Kano,Nigeria,0
+Katsina,Nigeria,0
+Lagos,Nigeria,1
+Maiduguri,Nigeria,0
+Makurdi,Nigeria,0
+Minna,Nigeria,0
+Ogbomoso,Nigeria,0
+Ondo,Nigeria,0
+Onitsha,Nigeria,0
+Osogbo,Nigeria,0
+Owerri,Nigeria,0
+Port Harcourt,Nigeria,0
+Uyo,Nigeria,0
+Warri,Nigeria,0
+Yola,Nigeria,0
+Zaria,Nigeria,0
+Pyongyang,North Korea,0
+Alesund,Norway,0
+Asker,Norway,0
+Bergen,Norway,1
+Bodo,Norway,0
+Drammen,Norway,0
+Drobak,Norway,0
+Egersund,Norway,0
+Farsund,Norway,0
+Fredrikstad,Norway,0
+Gjovik,Norway,0
+Haugesund,Norway,1
+Kongsberg,Norway,0
+Kristiansand,Norway,1
+Larvik,Norway,0
+Lillehammer,Norway,0
+Molde,Norway,0
+Narvik,Norway,0
+Oslo,Norway,1
+Porsgrunn,Norway,0
+Sarpsborg,Norway,0
+Skien,Norway,0
+Stavanger,Norway,1
+Steinkjer,Norway,0
+Tromso,Norway,1
+Trondheim,Norway,1
+Ar Rustaq,Oman,0
+As Sib,Oman,0
+Matrah,Oman,0
+Muscat,Oman,1
+Nizwa,Oman,0
+Salalah,Oman,0
+`Ibri,Oman,0
+Abbottabad,Pakistan,0
+Attock Khurd,Pakistan,0
+Bahawalnagar,Pakistan,0
+Bahawalpur,Pakistan,0
+Chiniot,Pakistan,0
+Dera Ghazi Khan,Pakistan,0
+Faisalabad,Pakistan,1
+Gilgit,Pakistan,0
+Gojra,Pakistan,0
+Gujranwala,Pakistan,0
+Gujrat,Pakistan,0
+Hyderabad City,Pakistan,1
+Islamabad,Pakistan,1
+Jaranwala,Pakistan,0
+Jhang City,Pakistan,0
+Karachi,Pakistan,1
+Khairpur Mir's,Pakistan,0
+Lahore,Pakistan,1
+Larkana,Pakistan,0
+Mandi Burewala,Pakistan,0
+Mardan,Pakistan,0
+Multan,Pakistan,1
+Muzaffarabad,Pakistan,0
+Nawabshah,Pakistan,0
+New Mirpur,Pakistan,0
+Okara,Pakistan,0
+Pakpattan,Pakistan,0
+Peshawar,Pakistan,1
+Quetta,Pakistan,0
+Rahimyar Khan,Pakistan,0
+Rawalpindi,Pakistan,1
+Saddiqabad,Pakistan,0
+Sahiwal,Pakistan,0
+Sargodha,Pakistan,0
+Shekhupura,Pakistan,0
+Sialkot City,Pakistan,1
+Sukkur,Pakistan,0
+Swabi,Pakistan,0
+Toba Tek Singh,Pakistan,0
+David,Panama,0
+La Chorrera,Panama,0
+Las Tablas,Panama,0
+Panama City,Panama,1
+Santiago,Panama,0
+Alotau,Papua New Guinea,0
+Goroka,Papua New Guinea,0
+Lae,Papua New Guinea,0
+Mount Hagen,Papua New Guinea,0
+Port Moresby,Papua New Guinea,1
+Asuncion,Paraguay,1
+Ciudad del Este,Paraguay,0
+Coronel Oviedo,Paraguay,0
+San Lorenzo,Paraguay,0
+Villarrica,Paraguay,0
+Arequipa,Peru,1
+Ayacucho,Peru,0
+Cajamarca,Peru,0
+Chiclayo,Peru,0
+Chimbote,Peru,0
+Cusco,Peru,1
+Huancayo,Peru,0
+Huanuco,Peru,0
+Huaraz,Peru,0
+Ica,Peru,0
+Iquitos,Peru,0
+Lima,Peru,1
+Moquegua,Peru,0
+Pisco,Peru,0
+Piura,Peru,0
+Pucallpa,Peru,0
+Tacna,Peru,0
+Tarapoto,Peru,0
+Trujillo,Peru,0
+Angeles City,Philippines,1
+Antipolo,Philippines,0
+Bacolod,Philippines,0
+Bacong,Philippines,0
+Bacoor,Philippines,0
+Baguio City,Philippines,1
+Balanga,Philippines,0
+Balatan,Philippines,0
+Batangas,Philippines,0
+Bayawan,Philippines,0
+Binan,Philippines,0
+Bulan,Philippines,0
+Butuan,Philippines,0
+Cabanatuan City,Philippines,0
+Cagayan de Oro,Philippines,0
+Calapan,Philippines,0
+Calbayog City,Philippines,0
+Caloocan City,Philippines,0
+Cavite City,Philippines,0
+Cebu City,Philippines,1
+City of Calamba,Philippines,0
+City of Paranaque,Philippines,0
+Cotabato,Philippines,0
+Dagupan City,Philippines,0
+Dasmarinas,Philippines,0
+Davao,Philippines,1
+Dipolog,Philippines,0
+Dumaguete City,Philippines,0
+El Nido,Philippines,0
+General Santos,Philippines,0
+General Trias,Philippines,0
+Iloilo,Philippines,0
+Imus,Philippines,0
+Koronadal,Philippines,0
+Laoag,Philippines,0
+Laoang,Philippines,0
+Lapu-Lapu City,Philippines,0
+Las Pinas City,Philippines,0
+Legazpi City,Philippines,0
+Los Banos,Philippines,0
+Lucena,Philippines,0
+Makati City,Philippines,1
+Malaybalay,Philippines,0
+Mambajao,Philippines,0
+Mandaluyong City,Philippines,0
+Mandaue City,Philippines,0
+Manila,Philippines,1
+Marawi City,Philippines,0
+Marikina City,Philippines,0
+Meycauayan,Philippines,0
+Muntinlupa City,Philippines,0
+Olongapo,Philippines,0
+Ormoc,Philippines,0
+Ozamiz City,Philippines,0
+Pasay City,Philippines,0
+Pasig City,Philippines,0
+Pitogo,Philippines,0
+Puerto Galera,Philippines,0
+Puerto Princesa,Philippines,0
+Quezon City,Philippines,1
+Roxas City,Philippines,0
+San Jose del Monte,Philippines,0
+San Pablo,Philippines,0
+Sorsogon,Philippines,0
+Surigao,Philippines,0
+Tacloban,Philippines,0
+Tagbilaran City,Philippines,0
+Taguig City,Philippines,0
+Tagum,Philippines,0
+Talipao,Philippines,0
+Talisay,Philippines,0
+Tarlac City,Philippines,0
+Taytay,Philippines,0
+Tuguegarao,Philippines,0
+Valenzuela,Philippines,0
+Vigan,Philippines,0
+Zamboanga City,Philippines,0
+Bedzin,Poland,0
+Bialystok,Poland,1
+Bielsko-Biala,Poland,0
+Boleslawiec,Poland,0
+Brzeg,Poland,0
+Bydgoszcz,Poland,1
+Bytom,Poland,0
+Chorzow,Poland,0
+Ciechanow,Poland,0
+Ciechocinek,Poland,0
+Czeladz,Poland,0
+Czestochowa,Poland,0
+Dabrowa Gornicza,Poland,0
+Elblag,Poland,0
+Gdansk,Poland,1
+Gdynia,Poland,1
+Gliwice,Poland,1
+Gniezno,Poland,0
+Gorzow Wielkopolski,Poland,0
+Grodzisk Mazowiecki,Poland,0
+Grudziadz,Poland,0
+Inowroclaw,Poland,0
+Jelenia Gora,Poland,0
+Kalisz,Poland,0
+Katowice,Poland,1
+Kielce,Poland,0
+Kolobrzeg,Poland,0
+Konin,Poland,0
+Koscierzyna,Poland,0
+Koszalin,Poland,0
+Krotoszyn,Poland,0
+Legnica,Poland,0
+Leszno,Poland,0
+Lodz,Poland,1
+Lomza,Poland,0
+Lublin,Poland,1
+Mielec,Poland,0
+Nysa,Poland,0
+Olsztyn,Poland,1
+Pabianice,Poland,0
+Piotrkow Trybunalski,Poland,0
+Plock,Poland,0
+Poznan,Poland,1
+Prudnik,Poland,0
+Pulawy,Poland,0
+Radom,Poland,0
+Rawa Mazowiecka,Poland,0
+Ruda Slaska,Poland,0
+Rybnik,Poland,0
+Rzeszow,Poland,1
+Siedlce,Poland,0
+Sosnowiec,Poland,0
+Swidnica,Poland,0
+Szczecin,Poland,1
+Tarnow,Poland,0
+Tarnowskie Gory,Poland,0
+Torun,Poland,1
+Tychy,Poland,0
+Walbrzych,Poland,0
+Warsaw,Poland,1
+Wloclawek,Poland,0
+Wroclaw,Poland,1
+Zabrze,Poland,0
+Zakopane,Poland,0
+Zamosc,Poland,0
+Zgorzelec,Poland,0
+Zielona Gora,Poland,0
+Albufeira,Portugal,0
+Almada,Portugal,0
+Amadora,Portugal,0
+Amarante,Portugal,0
+Angra do Heroismo,Portugal,0
+Aveiro,Portugal,1
+Barcelos,Portugal,0
+Barreiro,Portugal,0
+Braga,Portugal,1
+Caldas da Rainha,Portugal,0
+Cascais,Portugal,1
+Castelo Branco,Portugal,0
+Chaves,Portugal,0
+Coimbra,Portugal,1
+Corroios,Portugal,0
+Covilha,Portugal,0
+Elvas,Portugal,0
+Ermezinde,Portugal,0
+Evora,Portugal,0
+Faro,Portugal,1
+Figueira da Foz,Portugal,0
+Funchal,Portugal,1
+Guarda,Portugal,0
+Guimaraes,Portugal,0
+Horta,Portugal,0
+Lagos,Portugal,1
+Leiria,Portugal,1
+Lisbon,Portugal,1
+Loures,Portugal,0
+Lousada,Portugal,0
+Maia,Portugal,0
+Marinha Grande,Portugal,0
+Matosinhos,Portugal,0
+Odivelas,Portugal,0
+Oeiras,Portugal,1
+Oliveira de Azemeis,Portugal,0
+Penafiel,Portugal,0
+Peniche,Portugal,0
+Ponta Delgada,Portugal,0
+Portimao,Portugal,1
+Porto,Portugal,1
+Queluz,Portugal,0
+Sao Joao da Madeira,Portugal,0
+Seixal,Portugal,0
+Sesimbra,Portugal,0
+Setubal,Portugal,1
+Torres Vedras,Portugal,0
+Viana do Castelo,Portugal,0
+Vila Franca de Xira,Portugal,0
+Vila Nova de Gaia,Portugal,1
+Vila Real de Santo Antonio,Portugal,0
+Viseu,Portugal,0
+Arecibo,Puerto Rico,0
+Bayamon,Puerto Rico,0
+Caguas,Puerto Rico,0
+Carolina,Puerto Rico,0
+Guaynabo,Puerto Rico,0
+Gurabo,Puerto Rico,0
+Hormigueros,Puerto Rico,0
+Mayaguez,Puerto Rico,0
+Ponce,Puerto Rico,0
+Sabana Grande,Puerto Rico,0
+Santa Isabel,Puerto Rico,0
+Vega Baja,Puerto Rico,0
+Al Wakrah,Qatar,0
+Doha,Qatar,1
+Umm Salal `Ali,Qatar,0
+Saint-Denis,Reunion,0
+Alba Iulia,Romania,0
+Alexandria,Romania,0
+Arad,Romania,1
+Bacau,Romania,1
+Baia Mare,Romania,0
+Baia-Sprie,Romania,0
+Barlad,Romania,0
+Bistrita,Romania,0
+Bolintin Vale,Romania,0
+Botosani,Romania,0
+Braila,Romania,0
+Brasov,Romania,1
+Bucharest,Romania,1
+Buzau,Romania,0
+Buzias,Romania,0
+Carei,Romania,0
+Cluj-Napoca,Romania,1
+Constanta,Romania,1
+Craiova,Romania,1
+Cugir,Romania,0
+Deva,Romania,0
+Drobeta-Turnu Severin,Romania,0
+Focsani,Romania,0
+Galati,Romania,1
+Giurgiu,Romania,0
+Hunedoara,Romania,0
+Iasi,Romania,1
+Lehliu-Gara,Romania,0
+Lugoj,Romania,0
+Lupeni,Romania,0
+Mangalia,Romania,0
+Miercurea-Ciuc,Romania,0
+Odorheiu Secuiesc,Romania,0
+Onesti,Romania,0
+Oradea,Romania,1
+Piatra Neamt,Romania,0
+Pitesti,Romania,1
+Ploiesti,Romania,1
+Ramnicu Valcea,Romania,0
+Resita,Romania,0
+Satu Mare,Romania,0
+Sfantu-Gheorghe,Romania,0
+Sibiu,Romania,1
+Sighetu Marmatiei,Romania,0
+Suceava,Romania,1
+Targu Jiu,Romania,0
+Targu-Mures,Romania,1
+Timisoara,Romania,1
+Tulcea,Romania,0
+Turda,Romania,0
+Vaslui,Romania,0
+Vatra Dornei,Romania,0
+Zalau,Romania,0
+Abakan,Russia,0
+Alatyr,Russia,0
+Angarsk,Russia,0
+Arkhangelsk,Russia,0
+Armavir,Russia,0
+Arsenyev,Russia,0
+Astrakhan,Russia,0
+Balakovo,Russia,0
+Balashikha,Russia,0
+Barnaul,Russia,0
+Belgorod,Russia,0
+Biysk,Russia,0
+Blagoveshchensk,Russia,0
+Bratsk,Russia,0
+Bryansk,Russia,0
+Cheboksary,Russia,0
+Chelyabinsk,Russia,1
+Cherepovets,Russia,0
+Chita,Russia,0
+Domodedovo,Russia,0
+Dubna,Russia,0
+Dzerzhinsk,Russia,0
+Fryazino,Russia,0
+Gatchina,Russia,0
+Gelendzhik,Russia,0
+Glazov,Russia,0
+Goryachiy Klyuch,Russia,0
+Groznyy,Russia,0
+Irkutsk,Russia,1
+Ivanovo,Russia,0
+Ivdel,Russia,0
+Izhevsk,Russia,1
+Kalach-na-Donu,Russia,1
+Kaliningrad,Russia,1
+Kaluga,Russia,0
+Kazan,Russia,1
+Kemerovo,Russia,0
+Khabarovsk,Russia,1
+Khimki,Russia,0
+Kholmsk,Russia,0
+Kirov,Russia,0
+Kislovodsk,Russia,0
+Kolomna,Russia,0
+Komsomol'sk-na-Amure,Russia,0
+Kostroma,Russia,0
+Krasnodar,Russia,1
+Krasnogorsk,Russia,0
+Krasnoyarsk,Russia,1
+Kurgan,Russia,0
+Kursk,Russia,0
+Kyzyl,Russia,0
+Leninsk-Kuznetskiy,Russia,0
+Lipetsk,Russia,0
+Lobnya,Russia,0
+Lytkarino,Russia,0
+Lyubertsy,Russia,0
+Magadan,Russia,0
+Magnitogorsk,Russia,0
+Makhachkala,Russia,0
+Maloyaroslavets,Russia,0
+Maykop,Russia,0
+Mezhdurechensk,Russia,0
+Moscow,Russia,1
+Murmansk,Russia,0
+Murom,Russia,0
+Mytishchi,Russia,0
+Naberezhnyye Chelny,Russia,0
+Nadym,Russia,0
+Nakhodka,Russia,0
+Nalchik,Russia,0
+Nefteyugansk,Russia,0
+Nizhnekamsk,Russia,0
+Nizhnevartovsk,Russia,0
+Nizhniy Novgorod,Russia,1
+Nizhniy Tagil,Russia,0
+Noginsk,Russia,0
+Novocherkassk,Russia,0
+Novokuznetsk,Russia,0
+Novomoskovsk,Russia,0
+Novorossiysk,Russia,0
+Novosibirsk,Russia,1
+Novyy Urengoy,Russia,0
+Obninsk,Russia,0
+Odintsovo,Russia,0
+Omsk,Russia,1
+Orekhovo-Borisovo Yuzhnoye,Russia,0
+Orenburg,Russia,0
+Penza,Russia,0
+Perm,Russia,1
+Pervouralsk,Russia,0
+Petropavlovsk-Kamchatskiy,Russia,0
+Petrozavodsk,Russia,0
+Podolsk,Russia,0
+Pskov,Russia,0
+Pyatigorsk,Russia,0
+Ryazan,Russia,1
+Samara,Russia,1
+Saransk,Russia,0
+Saratov,Russia,1
+Segezha,Russia,0
+Sergiyev Posad,Russia,0
+Serpukhov,Russia,0
+Severodvinsk,Russia,0
+Shakhty,Russia,0
+Smolensk,Russia,0
+Sochi,Russia,1
+Solikamsk,Russia,0
+Solnechnogorsk,Russia,0
+Stavropol,Russia,0
+Sterlitamak,Russia,0
+Surgut,Russia,0
+Syktyvkar,Russia,0
+Taganrog,Russia,0
+Tambov,Russia,0
+Tolyatti,Russia,0
+Tomsk,Russia,1
+Tuapse,Russia,0
+Tula,Russia,1
+Tver,Russia,0
+Tyumen,Russia,1
+Ufa,Russia,1
+Ulan-Ude,Russia,0
+Ulyanovsk,Russia,0
+Velikiy Novgorod,Russia,0
+Velikiye Luki,Russia,0
+Vladikavkaz,Russia,0
+Vladimir,Russia,0
+Vladivostok,Russia,1
+Volgograd,Russia,1
+Vologda,Russia,0
+Volzhskiy,Russia,0
+Voronezh,Russia,1
+Yakutsk,Russia,0
+Yaroslavl,Russia,1
+Yekaterinburg,Russia,1
+Yoshkar-Ola,Russia,0
+Yuzhno-Sakhalinsk,Russia,0
+Zhukovskiy,Russia,0
+Zlatoust,Russia,0
+Gisenyi,Rwanda,0
+Kigali,Rwanda,1
+Ruhengeri,Rwanda,0
+Basseterre,Saint Kitts And Nevis,0
+Castries,Saint Lucia,0
+Kingstown,Saint Vincent And The Grenadines,0
+Apia,Samoa,0
+Acquaviva,San Marino,0
+Domagnano,San Marino,0
+San Marino,San Marino,0
+Sao Tome,Sao Tome And Principe,0
+Ad Dammam,Saudi Arabia,1
+Al Hawiyah,Saudi Arabia,0
+Al Hufuf,Saudi Arabia,0
+Al Kharj,Saudi Arabia,0
+Al Khubar,Saudi Arabia,0
+Al Mubarraz,Saudi Arabia,0
+Al Qatif,Saudi Arabia,0
+Buraydah,Saudi Arabia,0
+Hafr al Batin,Saudi Arabia,0
+Jeddah,Saudi Arabia,1
+Khamis Mushayt,Saudi Arabia,0
+Mecca,Saudi Arabia,1
+Medina,Saudi Arabia,1
+Najran,Saudi Arabia,0
+Riyadh,Saudi Arabia,1
+Sakaka,Saudi Arabia,0
+Tabuk,Saudi Arabia,0
+Yanbu`,Saudi Arabia,0
+Dakar,Senegal,1
+Saint-Louis,Senegal,0
+Thies,Senegal,0
+Aleksinac,Serbia,0
+Arandelovac,Serbia,0
+Belgrade,Serbia,1
+Cacak,Serbia,0
+Cuprija,Serbia,0
+Indija,Serbia,0
+Jagodina,Serbia,0
+Kragujevac,Serbia,1
+Kraljevo,Serbia,0
+Krusevac,Serbia,0
+Leskovac,Serbia,0
+Loznica,Serbia,0
+Nis,Serbia,1
+Novi Pazar,Serbia,0
+Novi Sad,Serbia,1
+Pancevo,Serbia,0
+Pirot,Serbia,0
+Pozarevac,Serbia,0
+Prokuplje,Serbia,0
+Senta,Serbia,0
+Smederevo,Serbia,0
+Smederevska Palanka,Serbia,0
+Sombor,Serbia,0
+Sremska Mitrovica,Serbia,0
+Sremski Karlovci,Serbia,0
+Stara Pazova,Serbia,0
+Subotica,Serbia,1
+Titel,Serbia,0
+Uzice,Serbia,0
+Valjevo,Serbia,0
+Vrbas,Serbia,0
+Vrnjacka Banja,Serbia,0
+Vrsac,Serbia,0
+Zajecar,Serbia,0
+Zrenjanin,Serbia,0
+Victoria,Seychelles,1
+Freetown,Sierra Leone,0
+Singapore,Singapore,1
+Philipsburg,Sint Maarten,0
+Banovce nad Bebravou,Slovakia,0
+Banska Bystrica,Slovakia,1
+Bardejov,Slovakia,0
+Bernolakovo,Slovakia,0
+Bratislava,Slovakia,1
+Cadca,Slovakia,0
+Dubnica nad Vahom,Slovakia,0
+Dunajska Streda,Slovakia,0
+Fil'akovo,Slovakia,0
+Hlohovec,Slovakia,0
+Kosice,Slovakia,1
+Levice,Slovakia,0
+Liptovsky Mikulas,Slovakia,0
+Lucenec,Slovakia,0
+Malacky,Slovakia,0
+Martin,Slovakia,0
+Myjava,Slovakia,0
+Nitra,Slovakia,1
+Nova Dubnica,Slovakia,0
+Nove Mesto nad Vahom,Slovakia,0
+Nove Zamky,Slovakia,0
+Poprad,Slovakia,0
+Povazska Bystrica,Slovakia,0
+Presov,Slovakia,1
+Prievidza,Slovakia,0
+Ruzomberok,Slovakia,0
+Svidnik,Slovakia,0
+Trebisov,Slovakia,0
+Trencin,Slovakia,0
+Trnava,Slovakia,1
+Vranov nad Topl'ou,Slovakia,0
+Ziar nad Hronom,Slovakia,0
+Zilina,Slovakia,1
+Zvolen,Slovakia,0
+Celje,Slovenia,1
+Crnomelj,Slovenia,0
+Domzale,Slovenia,0
+Grosuplje,Slovenia,0
+Izola,Slovenia,0
+Kamnik,Slovenia,0
+Kocevje,Slovenia,0
+Koper,Slovenia,0
+Kranj,Slovenia,1
+Krsko,Slovenia,0
+Ljubljana,Slovenia,1
+Maribor,Slovenia,1
+Murska Sobota,Slovenia,0
+Nova Gorica,Slovenia,0
+Novo Mesto,Slovenia,0
+Postojna,Slovenia,0
+Ptuj,Slovenia,0
+Radovljica,Slovenia,0
+Ravne na Koroskem,Slovenia,0
+Rogatec,Slovenia,0
+Skofja Loka,Slovenia,0
+Slovenska Bistrica,Slovenia,0
+Trbovlje,Slovenia,0
+Velenje,Slovenia,0
+Vojnik,Slovenia,0
+Vrhnika,Slovenia,0
+Zagorje,Slovenia,0
+Honiara,Solomon Islands,0
+Hargeysa,Somalia,1
+Jawhar,Somalia,0
+Mogadishu,Somalia,1
+Alberton,South Africa,0
+Benoni,South Africa,0
+Bloemfontein,South Africa,0
+Cape Town,South Africa,1
+Centurion,South Africa,0
+Durban,South Africa,1
+East London,South Africa,0
+George,South Africa,0
+Grahamstown,South Africa,0
+Hermanus,South Africa,0
+Jeffrey's Bay,South Africa,0
+Johannesburg,South Africa,1
+Kimberley,South Africa,0
+Klerksdorp,South Africa,0
+Knysna,South Africa,0
+Mossel Bay,South Africa,0
+Nelspruit,South Africa,0
+Pietermaritzburg,South Africa,0
+Polokwane,South Africa,0
+Port Elizabeth,South Africa,1
+Potchefstroom,South Africa,0
+Pretoria,South Africa,1
+Randburg,South Africa,0
+Roodepoort,South Africa,0
+Rustenburg,South Africa,0
+Sandton,South Africa,1
+Soweto,South Africa,0
+Uitenhage,South Africa,0
+Upington,South Africa,0
+Vereeniging,South Africa,0
+Villiersdorp,South Africa,0
+Vryburg,South Africa,0
+Vryheid,South Africa,0
+Welkom,South Africa,0
+Ansan,South Korea,0
+Boryeong,South Korea,0
+Bucheon,South Korea,0
+Busan,South Korea,1
+Changwon,South Korea,0
+Cheongju,South Korea,0
+Chuncheon,South Korea,0
+Chungju,South Korea,0
+Daegu,South Korea,0
+Daejeon,South Korea,0
+Gwacheon,South Korea,0
+Gwangju,South Korea,0
+Incheon,South Korea,1
+Jeju,South Korea,0
+Jeonju,South Korea,0
+Kyongju,South Korea,0
+Mokpo,South Korea,0
+Pocheon,South Korea,0
+Pohang,South Korea,0
+Pyeongtaek,South Korea,0
+Sangju,South Korea,0
+Seogwipo,South Korea,0
+Seoul,South Korea,1
+Songnam,South Korea,0
+Suwon,South Korea,0
+Uijeongbu,South Korea,0
+Ulsan,South Korea,0
+Wonju,South Korea,0
+Yeosu,South Korea,0
+Juba,South Sudan,0
+A Coruna,Spain,1
+Albacete,Spain,0
+Alboraya,Spain,0
+Alcala de Guadaira,Spain,0
+Alcala de Henares,Spain,0
+Alcaudete,Spain,0
+Alcira,Spain,0
+Algeciras,Spain,0
+Alicante,Spain,1
+Almeria,Spain,1
+Almunecar,Spain,0
+Antequera,Spain,0
+Aviles,Spain,0
+Badajoz,Spain,0
+Badalona,Spain,0
+Barcelona,Spain,1
+Benalmadena,Spain,0
+Benidorm,Spain,0
+Bilbao,Spain,1
+Burgos,Spain,0
+Canet de Mar,Spain,0
+Cartagena,Spain,1
+Castellon de la Plana,Spain,0
+Chiclana de la Frontera,Spain,0
+Ciudad de Ceuta,Spain,0
+Cordoba,Spain,0
+Cuenca,Spain,0
+Cuevas del Almanzora,Spain,0
+Dos Hermanas,Spain,0
+El Ejido,Spain,0
+Elche,Spain,0
+Estepona,Spain,0
+Ferrol,Spain,0
+Figueras,Spain,0
+Fuengirola,Spain,0
+Fuenlabrada,Spain,0
+Getafe,Spain,0
+Gijon,Spain,0
+Girona,Spain,1
+Granada,Spain,1
+Guadalajara,Spain,0
+Huelva,Spain,0
+Huesca,Spain,0
+Ibiza,Spain,0
+Jaen,Spain,0
+Jerez de la Frontera,Spain,0
+La Linea de la Concepcion,Spain,0
+Leon,Spain,1
+Logrono,Spain,0
+Los Corrales de Buelna,Spain,0
+Madrid,Spain,1
+Malaga,Spain,1
+Manresa,Spain,0
+Marbella,Spain,1
+Mataro,Spain,0
+Mazarron,Spain,0
+Merida,Spain,0
+Mostoles,Spain,0
+Murcia,Spain,1
+Novelda,Spain,0
+Oviedo,Spain,1
+Palomares del Rio,Spain,0
+Pamplona,Spain,1
+Plasencia,Spain,0
+Pola de Siero,Spain,0
+Pontevedra,Spain,0
+Rincon de la Victoria,Spain,0
+Rota,Spain,0
+Sabadell,Spain,0
+Sagunto,Spain,0
+Salamanca,Spain,1
+San Baudilio de Llobregat,Spain,0
+San Sebastian de los Reyes,Spain,0
+Santander,Spain,1
+Santiago de Compostela,Spain,0
+Segovia,Spain,0
+Sevilla,Spain,1
+Tarragona,Spain,1
+Toledo,Spain,0
+Torrejon de Ardoz,Spain,0
+Torrevieja,Spain,1
+Torrox,Spain,0
+Valencia,Spain,1
+Valladolid,Spain,1
+Vigo,Spain,1
+Villagarcia de Arosa,Spain,0
+Vitoria-Gasteiz,Spain,0
+Zarautz,Spain,0
+Badulla,Sri Lanka,0
+Batticaloa,Sri Lanka,0
+Colombo,Sri Lanka,1
+Galle,Sri Lanka,0
+Jaffna,Sri Lanka,0
+Kandy,Sri Lanka,0
+Kegalle,Sri Lanka,0
+Kurunegala,Sri Lanka,0
+Matale,Sri Lanka,0
+Moratuwa,Sri Lanka,0
+Negombo,Sri Lanka,0
+Nuwara Eliya,Sri Lanka,0
+Puttalam,Sri Lanka,0
+Ratnapura,Sri Lanka,0
+Sri Jayewardenepura Kotte,Sri Lanka,0
+Trincomalee,Sri Lanka,0
+Al Manaqil,Sudan,0
+Khartoum,Sudan,1
+Omdurman,Sudan,0
+Brokopondo,Suriname,0
+Groningen,Suriname,0
+Lelydorp,Suriname,0
+Nieuw Nickerie,Suriname,0
+Paramaribo,Suriname,0
+Manzini,Swaziland,0
+Mbabane,Swaziland,0
+Bollnas,Sweden,0
+Boras,Sweden,0
+Borlange,Sweden,0
+Gavle,Sweden,1
+Gothenburg,Sweden,1
+Halmstad,Sweden,0
+Harnosand,Sweden,0
+Helsingborg,Sweden,1
+Jonkoping,Sweden,1
+Kalmar,Sweden,0
+Karlskrona,Sweden,0
+Karlstad,Sweden,0
+Linkoping,Sweden,1
+Lulea,Sweden,0
+Malmo,Sweden,1
+Molndal,Sweden,0
+Norrkoping,Sweden,0
+Nykoping,Sweden,0
+Orebro,Sweden,0
+Ornskoldsvik,Sweden,0
+Skelleftea,Sweden,0
+Skovde,Sweden,0
+Stockholm,Sweden,1
+Sundsvall,Sweden,0
+Trollhattan,Sweden,0
+Umea,Sweden,0
+Uppsala,Sweden,1
+Vasteras,Sweden,1
+Vaxjo,Sweden,0
+Visby,Sweden,0
+Aarau,Switzerland,0
+Affoltern am Albis,Switzerland,0
+Aigle,Switzerland,0
+Allschwil,Switzerland,0
+Arbon,Switzerland,0
+Baden,Switzerland,0
+Basel,Switzerland,1
+Bellinzona,Switzerland,0
+Bern,Switzerland,1
+Biasca,Switzerland,0
+Birsfelden,Switzerland,0
+Buochs,Switzerland,0
+Dietikon,Switzerland,0
+Dubendorf,Switzerland,0
+Frauenfeld,Switzerland,0
+Fribourg,Switzerland,1
+Geneva,Switzerland,1
+Glarus,Switzerland,0
+Kriens,Switzerland,0
+La Chaux-de-Fonds,Switzerland,0
+Lachen,Switzerland,0
+Langenthal,Switzerland,0
+Lausanne,Switzerland,1
+Lucerne,Switzerland,1
+Lugano,Switzerland,1
+Meilen,Switzerland,0
+Mendrisio,Switzerland,0
+Munchwilen,Switzerland,0
+Neuchatel,Switzerland,1
+Nyon,Switzerland,0
+Opfikon,Switzerland,0
+Schaffhausen,Switzerland,0
+Schwyz,Switzerland,0
+Solothurn,Switzerland,0
+Uster,Switzerland,0
+Uzwil,Switzerland,0
+Vernier,Switzerland,0
+Vevey,Switzerland,0
+Visp,Switzerland,0
+Winterthur,Switzerland,1
+Yverdon-les-Bains,Switzerland,0
+Zug,Switzerland,1
+Zurich,Switzerland,1
+Al Qamishli,Syria,0
+Al Qusayr,Syria,0
+Aleppo,Syria,0
+Ar Rastan,Syria,0
+Az Zabadani,Syria,0
+Baniyas,Syria,0
+Damascus,Syria,1
+Hamah,Syria,0
+Homs,Syria,0
+Jaramana,Syria,0
+Latakia,Syria,0
+Muhradah,Syria,0
+`Afrin,Syria,0
+Changhua,Taiwan,0
+Chiayi,Taiwan,0
+Hsinchu,Taiwan,1
+Hualien,Taiwan,0
+Kaohsiung,Taiwan,1
+Keelung,Taiwan,0
+Miaoli,Taiwan,0
+Pingtung,Taiwan,0
+Taichung,Taiwan,1
+Tainan,Taiwan,0
+Taipei,Taiwan,1
+Taitung,Taiwan,0
+Zhubei,Taiwan,0
+Dushanbe,Tajikistan,1
+Khujand,Tajikistan,0
+Arusha,Tanzania,0
+Dar es Salaam,Tanzania,1
+Dodoma,Tanzania,0
+Mbeya,Tanzania,0
+Morogoro,Tanzania,0
+Mtwara,Tanzania,0
+Mwanza,Tanzania,0
+Zanzibar,Tanzania,0
+Ban Bang Pu Mai,Thailand,0
+Ban Rangsit,Thailand,0
+Bangkok,Thailand,1
+Cha-am,Thailand,0
+Chachoengsao,Thailand,0
+Chai Prakan,Thailand,0
+Chon Buri,Thailand,0
+Hat Yai,Thailand,0
+Hua Hin,Thailand,1
+Kalasin,Thailand,0
+Kanchanaburi,Thailand,0
+Khon Kaen,Thailand,0
+Ko Samui,Thailand,0
+Krabi,Thailand,0
+Lampang,Thailand,0
+Loei,Thailand,0
+Lop Buri,Thailand,0
+Maha Sarakham,Thailand,0
+Muban Saeng Bua Thong,Thailand,0
+Nakhon Pathom,Thailand,0
+Nakhon Ratchasima,Thailand,0
+Nakhon Sawan,Thailand,0
+Nakhon Si Thammarat,Thailand,0
+Nong Khai,Thailand,0
+Nonthaburi,Thailand,0
+Pak Kret,Thailand,0
+Phatthaya,Thailand,0
+Phetchaburi,Thailand,0
+Phitsanulok,Thailand,0
+Phuket,Thailand,1
+Prachuap Khiri Khan,Thailand,0
+Sakon Nakhon,Thailand,0
+Samut Prakan,Thailand,0
+Saraburi,Thailand,0
+Si Sa Ket,Thailand,0
+Suphan Buri,Thailand,0
+Ubon Ratchathani,Thailand,0
+Udon Thani,Thailand,0
+Dili,Timor-Leste,0
+Lome,Togo,0
+Neiafu,Tonga,0
+Nuku`alofa,Tonga,0
+Arima,Trinidad And Tobago,0
+Chaguanas,Trinidad And Tobago,0
+Couva,Trinidad And Tobago,0
+Diego Martin,Trinidad And Tobago,0
+Port of Spain,Trinidad And Tobago,1
+Sangre Grande,Trinidad And Tobago,0
+Siparia,Trinidad And Tobago,0
+Tunapuna,Trinidad And Tobago,0
+Ariana,Tunisia,1
+Ben Arous,Tunisia,0
+Bizerte,Tunisia,0
+Djemmal,Tunisia,0
+El Kef,Tunisia,0
+Gabes,Tunisia,0
+Gafsa,Tunisia,0
+Hammamet,Tunisia,0
+Jendouba,Tunisia,0
+Kairouan,Tunisia,0
+Kasserine,Tunisia,0
+Le Bardo,Tunisia,0
+Manouba,Tunisia,0
+Menzel Temime,Tunisia,0
+Monastir,Tunisia,1
+Nabeul,Tunisia,0
+Sakiet ez Zit,Tunisia,0
+Sfax,Tunisia,1
+Sidi Bouzid,Tunisia,0
+Sousse,Tunisia,1
+Tataouine,Tunisia,0
+Tozeur,Tunisia,0
+Tunis,Tunisia,1
+Adana,Turkey,1
+Adiyaman,Turkey,0
+Afyonkarahisar,Turkey,0
+Agri,Turkey,0
+Aksaray,Turkey,0
+Ankara,Turkey,1
+Antalya,Turkey,1
+Artvin,Turkey,0
+Aydin,Turkey,1
+Balikesir,Turkey,0
+Bartin,Turkey,0
+Bursa,Turkey,1
+Canakkale,Turkey,1
+Denizli,Turkey,1
+Diyarbakir,Turkey,1
+Duzce,Turkey,0
+Edirne,Turkey,0
+Elazig,Turkey,0
+Erzincan,Turkey,0
+Erzurum,Turkey,0
+Esenyurt,Turkey,0
+Eskisehir,Turkey,1
+Gaziantep,Turkey,1
+Gebze,Turkey,0
+Giresun,Turkey,0
+Iskenderun,Turkey,0
+Istanbul,Turkey,1
+Izmir,Turkey,1
+Kahramanmaras,Turkey,0
+Karabuk,Turkey,0
+Kars,Turkey,0
+Kayseri,Turkey,1
+Kirikkale,Turkey,0
+Kirklareli,Turkey,0
+Kocaeli,Turkey,1
+Konya,Turkey,1
+Kutahya,Turkey,0
+Luleburgaz,Turkey,0
+Malatya,Turkey,0
+Manavgat,Turkey,0
+Manisa,Turkey,0
+Marmara Ereglisi,Turkey,0
+Mersin,Turkey,1
+Mugla,Turkey,1
+Nevsehir,Turkey,0
+Nigde,Turkey,0
+Ordu,Turkey,0
+Osmaniye,Turkey,0
+Pendik,Turkey,0
+Sakarya,Turkey,0
+Samsun,Turkey,1
+Sanliurfa,Turkey,0
+Seferhisar,Turkey,0
+Sivas,Turkey,0
+Tekirdag,Turkey,1
+Tokat,Turkey,0
+Trabzon,Turkey,1
+Van,Turkey,0
+Yalova,Turkey,0
+Yozgat,Turkey,0
+Zonguldak,Turkey,0
+Ashgabat,Turkmenistan,0
+Dasoguz,Turkmenistan,0
+Kaka,Turkmenistan,0
+Turkmenabat,Turkmenistan,0
+Turkmenbasy,Turkmenistan,0
+Grand Turk,Turks And Caicos Islands,0
+Funafuti,Tuvalu,0
+Fort Portal,Uganda,0
+Iganga,Uganda,0
+Kampala,Uganda,1
+Kamwenge,Uganda,0
+Kapchorwa,Uganda,0
+Kasese,Uganda,0
+Kisoro,Uganda,0
+Mbarara,Uganda,0
+Mpigi,Uganda,0
+Tororo,Uganda,0
+Bila Tserkva,Ukraine,0
+Bilhorod-Dnistrovskyi,Ukraine,0
+Brovary,Ukraine,0
+Cherkasy,Ukraine,0
+Chernihiv,Ukraine,0
+Chernivtsi,Ukraine,1
+Chervonohrad,Ukraine,0
+Dnipro,Ukraine,1
+Donetsk,Ukraine,0
+Drohobych,Ukraine,0
+Fastiv,Ukraine,0
+Ivano-Frankivsk,Ukraine,0
+Kerch,Ukraine,0
+Kharkiv,Ukraine,1
+Kherson,Ukraine,0
+Khmelnytskyi,Ukraine,0
+Kolomyia,Ukraine,0
+Konotop,Ukraine,0
+Kostiantynivka,Ukraine,0
+Kramatorsk,Ukraine,0
+Kremenchuk,Ukraine,0
+Kremenets,Ukraine,0
+Kropyvnytskyi,Ukraine,0
+Kryvyi Rih,Ukraine,0
+Kyiv,Ukraine,1
+Lutsk,Ukraine,0
+Lviv,Ukraine,1
+Lysychansk,Ukraine,0
+Mariupol,Ukraine,0
+Melitopol,Ukraine,0
+Mukacheve,Ukraine,0
+Murovani Kurylivtsi,Ukraine,0
+Mykolaiv,Ukraine,1
+Nikopol,Ukraine,0
+Odesa,Ukraine,1
+Poltava,Ukraine,0
+Rivne,Ukraine,0
+Sievierodonetsk,Ukraine,0
+Sumy,Ukraine,0
+Ternopil,Ukraine,1
+Uzhhorod,Ukraine,1
+Vinnytsia,Ukraine,1
+Yevpatoriia,Ukraine,0
+Zaporizhzhia,Ukraine,1
+Zhytomyr,Ukraine,0
+Abu Dhabi,United Arab Emirates,1
+Al Fujayrah,United Arab Emirates,1
+Dubai,United Arab Emirates,1
+Sharjah,United Arab Emirates,1
+`Ajman,United Arab Emirates,1
+Aberdeen,United Kingdom,1
+Aberystwyth,United Kingdom,0
+Aldershot,United Kingdom,0
+Antrim,United Kingdom,0
+Ashford,United Kingdom,0
+Aylesbury,United Kingdom,0
+Barnsley,United Kingdom,0
+Basildon,United Kingdom,0
+Basingstoke,United Kingdom,1
+Bath,United Kingdom,1
+Bedford,United Kingdom,1
+Belfast,United Kingdom,1
+Birkenhead,United Kingdom,0
+Birmingham,United Kingdom,1
+Bishops Stortford,United Kingdom,0
+Blackburn,United Kingdom,0
+Blackpool,United Kingdom,0
+Bolton,United Kingdom,0
+Bournemouth,United Kingdom,1
+Bracknell,United Kingdom,0
+Bradford,United Kingdom,1
+Brighton,United Kingdom,1
+Bristol,United Kingdom,1
+Broadwater,United Kingdom,0
+Burnley,United Kingdom,0
+Burton upon Trent,United Kingdom,0
+Bury,United Kingdom,0
+Caernarfon,United Kingdom,0
+Cambridge,United Kingdom,1
+Canterbury,United Kingdom,1
+Carlisle,United Kingdom,0
+Chelmsford,United Kingdom,1
+Cheltenham,United Kingdom,0
+Chester,United Kingdom,1
+Chichester,United Kingdom,0
+Colchester,United Kingdom,1
+Corby,United Kingdom,0
+Coventry,United Kingdom,1
+Crawley,United Kingdom,0
+Crewe,United Kingdom,0
+Cumbernauld,United Kingdom,0
+Derby,United Kingdom,1
+Dudley,United Kingdom,0
+Dumfries,United Kingdom,0
+Dundee,United Kingdom,1
+Dunfermline,United Kingdom,0
+East Barnet,United Kingdom,0
+Eastbourne,United Kingdom,1
+Edinburgh,United Kingdom,1
+Ewell,United Kingdom,0
+Exeter,United Kingdom,1
+Falkirk,United Kingdom,0
+Farnborough,United Kingdom,0
+Folkestone,United Kingdom,0
+Forfar,United Kingdom,0
+Glasgow,United Kingdom,1
+Gloucester,United Kingdom,1
+Godalming,United Kingdom,0
+Gorebridge,United Kingdom,0
+Gravesend,United Kingdom,0
+Grays,United Kingdom,0
+Great Linford,United Kingdom,0
+Great Yarmouth,United Kingdom,0
+Greenock,United Kingdom,0
+Guildford,United Kingdom,1
+Harlow,United Kingdom,0
+Harrogate,United Kingdom,0
+Hartlepool,United Kingdom,0
+Hereford,United Kingdom,0
+Hexham,United Kingdom,0
+High Wycombe,United Kingdom,0
+Huddersfield,United Kingdom,1
+Inverness,United Kingdom,0
+Ipswich,United Kingdom,1
+Kettering,United Kingdom,0
+Kingston upon Hull,United Kingdom,1
+Kirkcaldy,United Kingdom,0
+Kirkwall,United Kingdom,0
+Lancaster,United Kingdom,0
+Leeds,United Kingdom,1
+Leicester,United Kingdom,1
+Leigh-on-Sea,United Kingdom,0
+Lisburn,United Kingdom,0
+Liverpool,United Kingdom,1
+Llandudno Junction,United Kingdom,0
+London,United Kingdom,1
+Longbridge,United Kingdom,0
+Lowestoft,United Kingdom,0
+Luton,United Kingdom,1
+Macclesfield,United Kingdom,0
+Maidstone,United Kingdom,1
+Manchester,United Kingdom,1
+Merthyr Tudful,United Kingdom,0
+Middlesbrough,United Kingdom,1
+Milton Keynes,United Kingdom,1
+Newbury,United Kingdom,0
+Newcastle,United Kingdom,0
+Newport,United Kingdom,1
+Northampton,United Kingdom,0
+Norwich,United Kingdom,1
+Nottingham,United Kingdom,1
+Nuneaton,United Kingdom,0
+Oldham,United Kingdom,0
+Oxford,United Kingdom,1
+Peterborough,United Kingdom,1
+Plymouth,United Kingdom,1
+Poole,United Kingdom,0
+Portsmouth,United Kingdom,1
+Preston,United Kingdom,1
+Ramsgate,United Kingdom,0
+Rayleigh,United Kingdom,0
+Reading,United Kingdom,1
+Rochdale,United Kingdom,0
+Rotherham,United Kingdom,0
+Royal Leamington Spa,United Kingdom,0
+Royal Tunbridge Wells,United Kingdom,0
+Rutherglen,United Kingdom,0
+Salford,United Kingdom,0
+Salisbury,United Kingdom,0
+Scunthorpe,United Kingdom,0
+Seasalter,United Kingdom,0
+Sheffield,United Kingdom,1
+Shrewsbury,United Kingdom,0
+Slough,United Kingdom,0
+Solihull,United Kingdom,0
+South Ockendon,United Kingdom,0
+Southampton,United Kingdom,1
+Southwick,United Kingdom,1
+Stevenage,United Kingdom,0
+Stirling,United Kingdom,0
+Stockton-on-Tees,United Kingdom,0
+Stoke-on-Trent,United Kingdom,1
+Stourbridge,United Kingdom,0
+Stratford-upon-Avon,United Kingdom,0
+Stretford,United Kingdom,0
+Sunderland,United Kingdom,0
+Sutton on Hull,United Kingdom,0
+Swindon,United Kingdom,1
+Tamworth,United Kingdom,0
+Taunton,United Kingdom,0
+Telford,United Kingdom,0
+Treherbert,United Kingdom,0
+Trowbridge,United Kingdom,0
+Truro,United Kingdom,0
+Walsall,United Kingdom,0
+Walton upon Thames,United Kingdom,1
+Warrington,United Kingdom,1
+Watford,United Kingdom,0
+Welwyn Garden City,United Kingdom,0
+West Bromwich,United Kingdom,0
+Westminster,United Kingdom,0
+Weston-super-Mare,United Kingdom,0
+Weymouth,United Kingdom,0
+Wigan,United Kingdom,0
+Woking,United Kingdom,1
+Wokingham,United Kingdom,0
+Wolverhampton,United Kingdom,1
+Worcester,United Kingdom,1
+Worthing,United Kingdom,0
+Wotton-under-Edge,United Kingdom,0
+York,United Kingdom,1
+Abilene,United States,0
+Acton,United States,0
+Acworth,United States,0
+Adrian,United States,0
+Agoura Hills,United States,0
+Airway Heights,United States,0
+Akron,United States,0
+Alamogordo,United States,0
+Albany,United States,1
+Albemarle,United States,0
+Albert Lea,United States,0
+Albuquerque,United States,1
+Alhambra,United States,0
+Aliso Viejo,United States,0
+Allentown,United States,0
+Alpena,United States,0
+Alpharetta,United States,0
+Alpine,United States,0
+Altoona,United States,0
+Alum Rock,United States,0
+Amarillo,United States,1
+Ames,United States,0
+Anaheim,United States,0
+Anchorage,United States,1
+Anderson,United States,0
+Ankeny,United States,0
+Ann Arbor,United States,1
+Annapolis,United States,0
+Antioch,United States,0
+Apopka,United States,0
+Apple Valley,United States,0
+Appleton,United States,0
+Arlington,United States,1
+Arlington Heights,United States,0
+Arroyo Grande,United States,0
+Artesia,United States,0
+Ashburn,United States,0
+Asheville,United States,1
+Ashland,United States,0
+Astoria,United States,0
+Atlanta,United States,1
+Atlantic City,United States,0
+Auburn,United States,0
+Auburndale,United States,0
+Augusta,United States,1
+Aurora,United States,0
+Austin,United States,1
+Aventura,United States,1
+Avondale,United States,0
+Bainbridge Island,United States,0
+Baker,United States,0
+Bakersfield,United States,1
+Baldwin,United States,0
+Baltimore,United States,1
+Baraboo,United States,0
+Barnegat,United States,0
+Barnstable,United States,0
+Batavia,United States,0
+Baton Rouge,United States,0
+Bay Minette,United States,0
+Bayonne,United States,0
+Baytown,United States,0
+Baywood,United States,0
+Beaumont,United States,0
+Beaver Dam,United States,0
+Beavercreek,United States,0
+Beaverton,United States,0
+Beckett Ridge,United States,0
+Beckley,United States,0
+Bedford Heights,United States,0
+Bell Gardens,United States,0
+Bellevue,United States,1
+Bellingham,United States,0
+Beloit,United States,0
+Bemidji,United States,0
+Bend,United States,1
+Bentonville,United States,0
+Bergenfield,United States,0
+Berkeley,United States,1
+Berkeley Heights,United States,0
+Berwyn,United States,0
+Bethel Park,United States,0
+Beverly,United States,0
+Beverly Hills,United States,0
+Big Spring,United States,0
+Billings,United States,0
+Biloxi,United States,0
+Binghamton,United States,0
+Birmingham,United States,1
+Bismarck,United States,0
+Blacksburg,United States,0
+Bloomfield,United States,0
+Bloomington,United States,0
+Blue Island,United States,1
+Boca Raton,United States,0
+Boise,United States,1
+Bonney Lake,United States,0
+Boone,United States,0
+Boston,United States,1
+Boulder,United States,0
+Bourbonnais,United States,0
+Bowie,United States,0
+Bowling Green,United States,0
+Boyes Hot Springs,United States,0
+Boynton Beach,United States,0
+Bozeman,United States,0
+Bradley,United States,0
+Braidwood,United States,0
+Branson,United States,0
+Brattleboro,United States,0
+Brea,United States,0
+Bremerton,United States,0
+Brentwood,United States,0
+Brevard,United States,0
+Bridgeport,United States,0
+Brockton,United States,0
+Bronx,United States,0
+Brookdale,United States,0
+Brookhaven,United States,0
+Brookline,United States,0
+Brooklyn,United States,1
+Broomfield,United States,0
+Brownville,United States,0
+Brunswick,United States,0
+Buckeye,United States,0
+Buffalo,United States,1
+Buffalo Grove,United States,0
+Buford,United States,0
+Bull Run,United States,0
+Bullhead City,United States,0
+Bulverde,United States,0
+Burbank,United States,0
+Burlingame,United States,0
+Burlington,United States,0
+Burnsville,United States,0
+Cabot,United States,0
+Cadillac,United States,0
+Caldwell,United States,0
+California,United States,0
+Calumet Park,United States,0
+Camden,United States,0
+Canon City,United States,0
+Canton,United States,0
+Cape Canaveral,United States,0
+Cape Coral,United States,0
+Cape Girardeau,United States,0
+Carbondale,United States,0
+Carlsbad,United States,0
+Carmel,United States,0
+Carrollton,United States,0
+Carson,United States,0
+Carson City,United States,0
+Cary,United States,0
+Casper,United States,0
+Castle Rock,United States,0
+Castroville,United States,0
+Catonsville,United States,0
+Cedar City,United States,0
+Cedar Rapids,United States,0
+Central Falls,United States,0
+Centreville,United States,0
+Cerritos,United States,0
+Champaign,United States,0
+Chandler,United States,0
+Chantilly,United States,0
+Chapel Hill,United States,0
+Charleston,United States,1
+Charlotte,United States,1
+Charlottesville,United States,0
+Chattanooga,United States,1
+Chelan,United States,0
+Cherry Hill,United States,0
+Chesapeake,United States,0
+Chester,United States,0
+Chevy Chase,United States,0
+Cheyenne,United States,0
+Chicago,United States,1
+Chico,United States,0
+Christiansburg,United States,0
+Chula Vista,United States,0
+Cincinnati,United States,1
+Citrus Heights,United States,0
+Clarkston,United States,0
+Clarksville,United States,0
+Clayton,United States,0
+Clearfield,United States,0
+Clearwater,United States,0
+Clemson,United States,0
+Cleveland,United States,1
+Cleveland Heights,United States,0
+Cliffside Park,United States,0
+Clifton,United States,0
+Clinton,United States,0
+Clovis,United States,0
+Coatesville,United States,0
+Cody,United States,0
+Coeur d'Alene,United States,0
+College Park,United States,0
+College Station,United States,1
+Collingswood,United States,0
+Colorado Springs,United States,1
+Columbia,United States,0
+Columbia Heights,United States,0
+Columbus,United States,1
+Commack,United States,0
+Concord,United States,0
+Conroe,United States,0
+Conway,United States,0
+Conyers,United States,0
+Cookeville,United States,0
+Coon Rapids,United States,0
+Coos Bay,United States,0
+Coppell,United States,0
+Coral Springs,United States,0
+Corning,United States,0
+Corona,United States,0
+Corpus Christi,United States,0
+Corvallis,United States,0
+Costa Mesa,United States,0
+Cottonwood Heights,United States,0
+Covina,United States,0
+Cranford,United States,0
+Crawfordsville,United States,0
+Crestview,United States,0
+Crown Point,United States,0
+Crystal Lake,United States,0
+Culver City,United States,0
+Cumberland,United States,0
+Cupertino,United States,0
+Cutler,United States,0
+Dallas,United States,1
+Dalton,United States,0
+Dania Beach,United States,0
+Danville,United States,0
+Davenport,United States,0
+Dayton,United States,0
+Daytona Beach,United States,1
+DeFuniak Springs,United States,0
+DeLand,United States,0
+Decatur,United States,0
+Deerfield Beach,United States,0
+Delaware,United States,0
+Delray Beach,United States,0
+Deltona,United States,0
+Denton,United States,0
+Denver,United States,1
+Des Moines,United States,0
+Des Plaines,United States,0
+Desert Hot Springs,United States,0
+Detroit,United States,1
+Dickinson,United States,0
+Dixon,United States,0
+Dodge City,United States,0
+Dothan,United States,0
+Downey,United States,0
+Downingtown,United States,0
+Doylestown,United States,0
+Dubuque,United States,0
+Duluth,United States,0
+Durant,United States,0
+Durham,United States,1
+Eagan,United States,0
+East Chicago,United States,0
+East Fishkill,United States,0
+East Lake,United States,0
+East Meadow,United States,0
+East Orange,United States,0
+East Palo Alto,United States,0
+East Peoria,United States,0
+East Providence,United States,0
+East Rancho Dominguez,United States,0
+East Ridge,United States,0
+East Riverdale,United States,0
+East Rutherford,United States,0
+East Stroudsburg,United States,0
+Easton,United States,0
+Eastpointe,United States,0
+Eastvale,United States,0
+Eau Claire,United States,0
+Eden Prairie,United States,0
+Edgewood,United States,0
+Edison,United States,0
+Edmond,United States,0
+Edwardsville,United States,0
+Effingham,United States,0
+Egg Harbor,United States,0
+El Cajon,United States,0
+El Centro,United States,0
+El Cerrito,United States,0
+El Paso,United States,1
+El Paso de Robles,United States,0
+Eldersburg,United States,0
+Elizabethton,United States,0
+Elizabethtown,United States,0
+Elkhart,United States,0
+Elkton,United States,0
+Ellensburg,United States,0
+Ellsworth,United States,0
+Elmont,United States,0
+Emporia,United States,0
+Encinitas,United States,0
+Enterprise,United States,0
+Erie,United States,0
+Escondido,United States,0
+Eugene,United States,1
+Eureka,United States,0
+Evans,United States,0
+Evanston,United States,0
+Evansville,United States,0
+Everett,United States,1
+Evergreen Park,United States,0
+Fairbanks,United States,0
+Fairborn,United States,0
+Fairfax,United States,1
+Fairfield,United States,0
+Fairmont,United States,0
+Fall River,United States,0
+Fallon,United States,0
+Fanwood,United States,0
+Fargo,United States,1
+Farmington,United States,0
+Farmington Hills,United States,0
+Fayetteville,United States,0
+Fergus Falls,United States,0
+Flagstaff,United States,0
+Flanders,United States,0
+Flint,United States,0
+Forsyth,United States,0
+Fort Collins,United States,0
+Fort Dodge,United States,0
+Fort Lauderdale,United States,1
+Fort Lee,United States,0
+Fort Myers,United States,1
+Fort Pierce,United States,0
+Fort Scott,United States,0
+Fort Smith,United States,0
+Fort Walton Beach,United States,0
+Fort Wayne,United States,1
+Fort Worth,United States,1
+Fortuna Foothills,United States,0
+Foster City,United States,0
+Fowler,United States,0
+Framingham,United States,0
+Frankfort,United States,0
+Frederick,United States,0
+Fredericksburg,United States,0
+Fremont,United States,1
+Fresno,United States,1
+Frisco,United States,0
+Fullerton,United States,0
+Fulshear,United States,0
+Fuquay-Varina,United States,0
+Gadsden,United States,0
+Gainesville,United States,1
+Gaithersburg,United States,0
+Galesburg,United States,0
+Gallup,United States,0
+Garden Grove,United States,0
+Garland,United States,0
+Gary,United States,0
+Gastonia,United States,0
+Gaylord,United States,0
+Germantown,United States,0
+Gig Harbor,United States,0
+Gilbert,United States,0
+Gillette,United States,0
+Gilroy,United States,0
+Glendale,United States,0
+Glendale Heights,United States,0
+Glendora,United States,0
+Goldsboro,United States,0
+Goose Creek,United States,0
+Grand Forks,United States,0
+Grand Island,United States,0
+Grand Junction,United States,0
+Grand Rapids,United States,1
+Grants Pass,United States,0
+Grapevine,United States,0
+Grass Valley,United States,0
+Great Bend,United States,0
+Great Falls,United States,0
+Greeley,United States,0
+Green Bay,United States,0
+Green Valley,United States,0
+Greensboro,United States,1
+Greensburg,United States,0
+Greenville,United States,1
+Greer,United States,0
+Gresham,United States,0
+Grosse Pointe Woods,United States,0
+Groton,United States,0
+Grove City,United States,0
+Grover Beach,United States,0
+Gulfport,United States,0
+Hackensack,United States,0
+Hagerstown,United States,0
+Hammond,United States,0
+Hampton,United States,0
+Hanford,United States,0
+Harlingen,United States,0
+Harrisburg,United States,0
+Harrison,United States,0
+Harrisonburg,United States,0
+Hartford,United States,0
+Hartsville,United States,0
+Hattiesburg,United States,0
+Havelock,United States,0
+Hawthorne,United States,0
+Hayesville,United States,0
+Hays,United States,0
+Hayward,United States,0
+Helena,United States,0
+Hemet,United States,0
+Hempstead,United States,0
+Henderson,United States,0
+Hermosa Beach,United States,0
+Herndon,United States,0
+Hialeah,United States,0
+Hickory,United States,0
+High Point,United States,0
+Highland Park,United States,0
+Highlands Ranch,United States,0
+Hillsboro,United States,0
+Hilo,United States,0
+Hilton,United States,0
+Hilton Head Island,United States,0
+Hinesville,United States,0
+Hobbs,United States,0
+Hoboken,United States,0
+Holladay,United States,0
+Hollywood,United States,0
+Homestead,United States,0
+Honolulu,United States,1
+Hopkins,United States,0
+Houma,United States,0
+Houston,United States,1
+Hudson,United States,0
+Huntersville,United States,0
+Huntington,United States,0
+Huntington Beach,United States,1
+Huntington Park,United States,0
+Huntington Woods,United States,0
+Huntsville,United States,1
+Hutchinson,United States,0
+Hyattsville,United States,0
+Idaho Falls,United States,0
+Indianapolis,United States,1
+Indio,United States,0
+Inwood,United States,0
+Iola,United States,0
+Iowa City,United States,0
+Irvine,United States,1
+Irving,United States,0
+Islip,United States,0
+Issaquah,United States,0
+Ithaca,United States,0
+Jackson,United States,0
+Jacksonville,United States,1
+Jefferson City,United States,0
+Jeffersonville,United States,0
+Jensen Beach,United States,0
+Jersey City,United States,1
+Johnson City,United States,0
+Johnstown,United States,0
+Jonesboro,United States,0
+Joplin,United States,0
+Juneau,United States,0
+Jupiter,United States,0
+Kahului,United States,0
+Kailua,United States,0
+Kalamazoo,United States,0
+Kalispell,United States,0
+Kansas City,United States,0
+Katy,United States,0
+Kearns,United States,0
+Keller,United States,0
+Kendale Lakes,United States,0
+Kennesaw,United States,0
+Kennewick,United States,0
+Kenosha,United States,0
+Kent,United States,0
+Kernersville,United States,0
+Kerrville,United States,0
+Ketchikan,United States,0
+Key West,United States,0
+Kill Devil Hills,United States,0
+Killeen,United States,0
+Kingman,United States,0
+Kings Park,United States,0
+Kingsport,United States,0
+Kirksville,United States,0
+Kissimmee,United States,0
+Klamath Falls,United States,0
+Knoxville,United States,1
+Kodiak,United States,0
+Kokomo,United States,0
+Kyle,United States,0
+La Crosse,United States,0
+La Mesa,United States,0
+La Porte,United States,0
+Lacey,United States,0
+Lafayette,United States,0
+Lake Charles,United States,0
+Lake City,United States,0
+Lake Elsinore,United States,0
+Lake Geneva,United States,0
+Lake Havasu City,United States,0
+Lake Oswego,United States,0
+Lake Ronkonkoma,United States,0
+Lake Worth,United States,0
+Lakeland,United States,0
+Lakeside,United States,0
+Lakewood,United States,0
+Lancaster,United States,1
+Lansdale,United States,0
+Lansing,United States,0
+Laramie,United States,0
+Laredo,United States,0
+Largo,United States,0
+Las Cruces,United States,0
+Las Vegas,United States,1
+Laurel,United States,0
+Lawrence,United States,0
+Lawrenceville,United States,0
+Lawton,United States,0
+Le Roy,United States,0
+League City,United States,0
+Leavenworth,United States,0
+Lebanon,United States,0
+Leesburg,United States,0
+Lehi,United States,0
+Leominster,United States,0
+Levittown,United States,0
+Lewisburg,United States,0
+Lewistown,United States,0
+Lewisville,United States,0
+Lexington,United States,1
+Lexington Park,United States,0
+Lihue,United States,0
+Lincoln,United States,0
+Little Rock,United States,0
+Livermore,United States,0
+Livonia,United States,0
+Logan,United States,0
+Lombard,United States,0
+Lompoc,United States,0
+Long Beach,United States,1
+Long Branch,United States,0
+Longmont,United States,0
+Longview,United States,0
+Lorain,United States,0
+Los Angeles,United States,1
+Los Gatos,United States,0
+Louisville,United States,1
+Loveland,United States,0
+Lowell,United States,0
+Lubbock,United States,0
+Lufkin,United States,0
+Lynchburg,United States,0
+Lynden,United States,0
+Lynwood,United States,0
+Macomb,United States,0
+Macon,United States,0
+Madison,United States,1
+Malden,United States,0
+Manassas,United States,0
+Manchester,United States,0
+Manhattan,United States,0
+Manhattan Beach,United States,0
+Manistee,United States,0
+Mankato,United States,0
+Manteca,United States,0
+Maple Valley,United States,0
+Marietta,United States,0
+Marquette,United States,0
+Marshfield,United States,0
+Martinsburg,United States,0
+Martinsville,United States,0
+Marysville,United States,0
+Mason,United States,0
+Massapequa,United States,0
+McAlester,United States,0
+McAllen,United States,0
+McHenry,United States,0
+McKinney,United States,0
+McLean,United States,0
+McMinnville,United States,0
+Meadville,United States,0
+Mechanicsburg,United States,0
+Mechanicville,United States,0
+Medford,United States,0
+Media,United States,0
+Memphis,United States,1
+Menifee,United States,0
+Menominee,United States,0
+Menomonee Falls,United States,0
+Mentor,United States,0
+Meridian,United States,0
+Merrillville,United States,0
+Mesa,United States,1
+Mesquite,United States,0
+Miami,United States,1
+Middlesex,United States,0
+Middletown,United States,0
+Midland,United States,0
+Midlothian,United States,0
+Milwaukee,United States,1
+Minneapolis,United States,1
+Minot,United States,0
+Mission Bend,United States,0
+Mission Viejo,United States,0
+Missoula,United States,1
+Moab,United States,0
+Mobile,United States,1
+Modesto,United States,1
+Moline,United States,0
+Moncks Corner,United States,0
+Monroe,United States,0
+Montclair,United States,0
+Monterey,United States,0
+Monterey Park,United States,0
+Montgomery,United States,0
+Montrose,United States,0
+Monument,United States,0
+Mooresville,United States,0
+Morehead City,United States,0
+Morgan City,United States,0
+Morgantown,United States,0
+Morristown,United States,0
+Morrisville,United States,0
+Moses Lake,United States,0
+Moss Point,United States,0
+Moultrie,United States,0
+Mount Lebanon,United States,0
+Mount Vernon,United States,0
+Mountain Home,United States,0
+Mountain View,United States,0
+Muncie,United States,0
+Murfreesboro,United States,0
+Murrieta,United States,0
+Muskegon,United States,0
+Muskogee,United States,0
+Myrtle Beach,United States,1
+Nacogdoches,United States,0
+Naperville,United States,0
+Nashua,United States,0
+Nashville,United States,1
+Neenah,United States,0
+New Bern,United States,0
+New Braunfels,United States,0
+New City,United States,0
+New Haven,United States,1
+New Orleans,United States,1
+New Paltz,United States,0
+New Port Richey,United States,0
+New Smyrna Beach,United States,0
+New York,United States,1
+Newark,United States,0
+Newport Beach,United States,0
+Newport News,United States,0
+Nicholasville,United States,0
+Niles,United States,0
+Norcross,United States,0
+Norfolk,United States,0
+Normal,United States,0
+Norman,United States,0
+Norristown,United States,0
+North Amityville,United States,0
+North Bend,United States,0
+North Bethesda,United States,0
+North Brunswick,United States,0
+North Charleston,United States,0
+North East,United States,0
+North New Hyde Park,United States,0
+North Platte,United States,0
+North Ridgeville,United States,0
+North Springfield,United States,0
+Northport,United States,0
+Norwalk,United States,0
+Nyack,United States,0
+Oak Park,United States,0
+Oak Ridge,United States,0
+Oakland,United States,1
+Ocala,United States,0
+Ocean,United States,0
+Ocean Springs,United States,0
+Oceanside,United States,0
+Odessa,United States,0
+Ogden,United States,0
+Ojai,United States,0
+Oklahoma City,United States,1
+Olympia,United States,1
+Omaha,United States,1
+Ontario,United States,0
+Orem,United States,0
+Orlando,United States,1
+Oshkosh,United States,0
+Ottumwa,United States,0
+Overland Park,United States,0
+Owensboro,United States,0
+Owings Mills,United States,0
+Owosso,United States,0
+Oxnard,United States,0
+Oyster Bay,United States,0
+Paducah,United States,0
+Pagosa Springs,United States,0
+Pahrump,United States,0
+Palatine,United States,0
+Palatka,United States,0
+Palm Bay,United States,0
+Palm Coast,United States,0
+Palm Harbor,United States,0
+Palm Springs,United States,1
+Palmdale,United States,0
+Palmer,United States,0
+Paradise,United States,0
+Parkersburg,United States,0
+Parsippany-Troy Hills,United States,0
+Pasadena,United States,0
+Pasco,United States,0
+Passaic,United States,0
+Paterson,United States,0
+Pawtucket,United States,0
+Peachtree Corners,United States,0
+Pearl City,United States,0
+Pembroke Pines,United States,0
+Pendleton,United States,0
+Pensacola,United States,1
+Peoria,United States,0
+Perrysburg,United States,0
+Petoskey,United States,0
+Pflugerville,United States,0
+Philadelphia,United States,1
+Phoenix,United States,1
+Piedmont,United States,0
+Pierre,United States,0
+Pikesville,United States,0
+Pine Bluff,United States,0
+Pinehurst,United States,0
+Pinellas Park,United States,0
+Pinole,United States,0
+Piscataway,United States,0
+Pittsburgh,United States,1
+Pittsfield,United States,0
+Plainedge,United States,0
+Plainsboro,United States,0
+Plano,United States,1
+Plantation,United States,0
+Plattsburgh,United States,0
+Pleasant Grove,United States,0
+Pleasanton,United States,0
+Pleasantville,United States,0
+Pocatello,United States,0
+Point Pleasant,United States,0
+Pomona,United States,0
+Ponca City,United States,0
+Pontiac,United States,0
+Pontotoc,United States,0
+Pooler,United States,0
+Port Arthur,United States,0
+Port Jefferson,United States,0
+Port St. Lucie,United States,1
+Portland,United States,1
+Pottsville,United States,0
+Poughkeepsie,United States,0
+Prattville,United States,0
+Prescott,United States,0
+Presque Isle,United States,0
+Princeton,United States,0
+Prior Lake,United States,0
+Providence,United States,0
+Pueblo,United States,0
+Pukalani,United States,0
+Pullman,United States,0
+Putnam Valley,United States,0
+Puyallup,United States,0
+Queen Creek,United States,0
+Queens,United States,0
+Queensbury,United States,0
+Quincy,United States,0
+Raleigh,United States,1
+Ramsey,United States,0
+Rancho Cucamonga,United States,0
+Rancho Santa Margarita,United States,0
+Rapid City,United States,0
+Red Bank,United States,0
+Redding,United States,0
+Redmond,United States,0
+Redondo Beach,United States,0
+Redwood City,United States,0
+Reno,United States,1
+Renton,United States,0
+Reston,United States,0
+Rhinelander,United States,0
+Richmond,United States,1
+Richton Park,United States,0
+Ridgecrest,United States,0
+Ridgefield Park,United States,0
+Ridley Park,United States,0
+Rincon,United States,0
+Rio Rancho,United States,0
+River Grove,United States,0
+Riverside,United States,1
+Roanoke,United States,0
+Rochester,United States,1
+Rock Hill,United States,0
+Rock Island,United States,0
+Rock Springs,United States,0
+Rockford,United States,0
+Rocklin,United States,0
+Rockville,United States,0
+Rocky Hill,United States,0
+Rocky Mount,United States,0
+Rogers,United States,0
+Roseburg,United States,0
+Roseville,United States,0
+Round Rock,United States,0
+Royal Oak,United States,0
+Russellville,United States,0
+Rutherford,United States,0
+Sacramento,United States,1
+Saginaw,United States,0
+Salem,United States,1
+Salt Lake City,United States,1
+San Angelo,United States,0
+San Bernardino,United States,0
+San Diego,United States,1
+San Dimas,United States,0
+San Jose,United States,1
+San Leandro,United States,0
+San Luis Obispo,United States,0
+San Ramon,United States,0
+Sandusky,United States,0
+Santa Monica,United States,0
+Sarasota,United States,1
+Saratoga,United States,0
+Saratoga Springs,United States,0
+Satellite Beach,United States,0
+Savannah,United States,1
+Sayreville,United States,0
+Schaumburg,United States,0
+Schenectady,United States,0
+Scottsdale,United States,0
+Scranton,United States,0
+SeaTac,United States,0
+Seaside,United States,0
+Seattle,United States,1
+Sebring,United States,0
+Sedalia,United States,0
+Sellersburg,United States,0
+Sequim,United States,0
+Sevierville,United States,0
+Shawnee,United States,0
+Sheboygan,United States,0
+Shelby,United States,0
+Sheridan,United States,0
+Sherman,United States,0
+Shoreline,United States,0
+Shreveport,United States,0
+Sierra Vista,United States,0
+Silver Spring,United States,0
+Simi Valley,United States,0
+Simpsonville,United States,0
+Sioux City,United States,0
+Sioux Falls,United States,0
+Sitka,United States,0
+Slidell,United States,0
+Smithfield,United States,0
+Smithtown,United States,0
+Smyrna,United States,0
+Somers,United States,0
+Somerville,United States,0
+Sonora,United States,0
+South Bend,United States,0
+South Bradenton,United States,0
+South Fayette,United States,0
+South Miami Heights,United States,0
+South Orange Village,United States,0
+South Park Township,United States,0
+South Riding,United States,0
+Southaven,United States,0
+Southbridge,United States,0
+Spanaway,United States,0
+Spanish Fork,United States,0
+Spartanburg,United States,0
+Spearfish,United States,0
+Spokane,United States,1
+Spring Hill,United States,0
+Spring Valley,United States,0
+Springfield,United States,1
+Springville,United States,0
+St. Augustine,United States,0
+Stamford,United States,0
+Stanford,United States,0
+Starkville,United States,0
+State College,United States,0
+Staten Island,United States,0
+Staunton,United States,0
+Sterling,United States,0
+Sterling Heights,United States,0
+Stevens Point,United States,0
+Stillwater,United States,0
+Stockton,United States,0
+Stone Mountain,United States,0
+Streamwood,United States,0
+Stuart,United States,0
+Suffolk,United States,0
+Sugar Land,United States,0
+Suitland,United States,0
+Summerville,United States,0
+Summit,United States,0
+Sumter,United States,0
+Sun City Center,United States,0
+Sunny Isles Beach,United States,0
+Sunnyvale,United States,1
+Sunrise Manor,United States,0
+Surprise,United States,0
+Susanville,United States,0
+Suwanee,United States,0
+Syracuse,United States,1
+Tacoma,United States,1
+Tallahassee,United States,1
+Tampa,United States,1
+Taylor,United States,0
+Teaneck,United States,0
+Tega Cay,United States,0
+Tehachapi,United States,0
+Temecula,United States,0
+Tempe,United States,0
+Temple,United States,0
+Temple City,United States,0
+Terre Haute,United States,0
+Texarkana,United States,0
+Texas City,United States,0
+The Dalles,United States,0
+The Woodlands,United States,0
+Thomasville,United States,0
+Thornton,United States,0
+Thousand Oaks,United States,0
+Tiffin,United States,0
+Tipp City,United States,0
+Titusville,United States,0
+Toledo,United States,1
+Tomball,United States,0
+Toms River,United States,0
+Tooele,United States,0
+Topeka,United States,0
+Torrance,United States,0
+Torrington,United States,0
+Tracy,United States,0
+Traverse City,United States,0
+Trenton,United States,0
+Truckee,United States,0
+Tucson,United States,1
+Tulare,United States,0
+Tullahoma,United States,0
+Tulsa,United States,1
+Tupelo,United States,0
+Turlock,United States,0
+Turtle Creek,United States,0
+Tuscaloosa,United States,0
+Tustin,United States,0
+Twin Falls,United States,0
+Twin Lakes,United States,0
+Tyler,United States,0
+Union City,United States,0
+Union Park,United States,0
+Uniondale,United States,0
+Upland,United States,0
+Upper Merion,United States,0
+Urbana,United States,0
+Utica,United States,0
+Vacaville,United States,0
+Valdosta,United States,0
+Vallejo,United States,0
+Vandenberg Village,United States,0
+Vero Beach,United States,0
+Victorville,United States,0
+Virginia Beach,United States,1
+Visalia,United States,0
+Waco,United States,0
+Wadsworth,United States,0
+Wailuku,United States,0
+Waipahu,United States,0
+Wakefield-Peacedale,United States,0
+Walla Walla,United States,0
+Wallingford,United States,0
+Walnut Creek,United States,0
+Walnut Park,United States,0
+Waltham,United States,0
+Warner Robins,United States,0
+Warren,United States,0
+Warrensburg,United States,0
+Warrenton,United States,0
+Washington,United States,1
+Waterbury,United States,0
+Watertown,United States,0
+Watertown Town,United States,0
+Waterville,United States,0
+Watsonville,United States,0
+Waukesha,United States,0
+Wausau,United States,0
+Waycross,United States,0
+Wayne,United States,0
+Waynesboro,United States,0
+Waynesville,United States,0
+Weatherford,United States,0
+Webb City,United States,0
+Webster,United States,0
+Wenatchee,United States,0
+Wentzville,United States,0
+Weslaco,United States,0
+Wesley Chapel,United States,0
+West Hartford,United States,0
+West Hollywood,United States,0
+West Jordan,United States,0
+West Lafayette,United States,0
+West New York,United States,0
+West Palm Beach,United States,0
+West Springfield,United States,0
+West Whiteland,United States,0
+Westborough,United States,0
+Westerville,United States,0
+Westfield,United States,0
+Westgate,United States,0
+Westmont,United States,0
+Wheaton,United States,0
+White City,United States,0
+White Plains,United States,0
+Wichita,United States,1
+Wichita Falls,United States,0
+Wilkes-Barre,United States,0
+Williamsburg,United States,0
+Williamsport,United States,0
+Willimantic,United States,0
+Williston Park,United States,0
+Willoughby,United States,0
+Wilmington,United States,0
+Wilmington Island,United States,0
+Winder,United States,0
+Winnemucca,United States,0
+Winona,United States,0
+Winston-Salem,United States,0
+Winter Haven,United States,0
+Wisconsin Rapids,United States,0
+Wixom,United States,0
+Wood-Ridge,United States,0
+Woodbridge,United States,0
+Woodbury,United States,0
+Woodinville,United States,0
+Woodlawn,United States,0
+Woonsocket,United States,0
+Worcester,United States,0
+Wrightsville,United States,0
+Wyandotte,United States,0
+Wylie,United States,0
+Yakima,United States,0
+Yankton,United States,0
+Yelm,United States,0
+Yonkers,United States,0
+Yorba Linda,United States,0
+Yorktown,United States,0
+Yorkville,United States,0
+Youngstown,United States,0
+Ypsilanti,United States,0
+Yreka,United States,0
+Yuba City,United States,0
+Yucaipa,United States,0
+Yucca Valley,United States,0
+Yukon,United States,0
+Yuma,United States,0
+Zanesville,United States,0
+Zephyrhills,United States,0
+Zion,United States,0
+Atlantida,Uruguay,0
+Canelones,Uruguay,0
+Durazno,Uruguay,0
+Las Piedras,Uruguay,0
+Maldonado,Uruguay,0
+Montevideo,Uruguay,1
+Paysandu,Uruguay,0
+Rivera,Uruguay,0
+Salto,Uruguay,0
+Tacuarembo,Uruguay,0
+Trinidad,Uruguay,0
+Andijon,Uzbekistan,0
+Bukhara,Uzbekistan,0
+Jizzax,Uzbekistan,0
+Namangan,Uzbekistan,0
+Qarshi,Uzbekistan,0
+Samarkand,Uzbekistan,0
+Shahrisabz,Uzbekistan,0
+Tashkent,Uzbekistan,1
+Termiz,Uzbekistan,0
+Urganch,Uzbekistan,0
+Port-Vila,Vanuatu,1
+Vatican City,Vatican City,0
+Barcelona,Venezuela,0
+Barinas,Venezuela,0
+Barquisimeto,Venezuela,0
+Cabimas,Venezuela,0
+Caracas,Venezuela,1
+Ciudad Bolivar,Venezuela,0
+Ciudad Guayana,Venezuela,0
+Coro,Venezuela,0
+El Tigre,Venezuela,0
+Los Teques,Venezuela,0
+Maracaibo,Venezuela,0
+Maracay,Venezuela,0
+Maturin,Venezuela,0
+Merida,Venezuela,0
+Puerto La Cruz,Venezuela,0
+Punto Fijo,Venezuela,0
+San Cristobal,Venezuela,0
+Valencia,Venezuela,0
+Bac Giang,Vietnam,0
+Bac Ninh,Vietnam,0
+Bien Hoa,Vietnam,0
+Buon Ma Thuot,Vietnam,0
+Cam Pha,Vietnam,0
+Can Tho,Vietnam,0
+Cao Lanh,Vietnam,0
+Dien Bien Phu,Vietnam,0
+Hai Duong,Vietnam,0
+Haiphong,Vietnam,0
+Hanoi,Vietnam,1
+Ho Chi Minh City,Vietnam,1
+Hue,Vietnam,0
+Nam Dinh,Vietnam,0
+Nha Trang,Vietnam,1
+Phan Rang-Thap Cham,Vietnam,0
+Phan Thiet,Vietnam,0
+Quy Nhon,Vietnam,0
+Vinh,Vietnam,0
+Vinh Yen,Vietnam,0
+Vung Tau,Vietnam,0
+Al Mahwit,Yemen,0
+Al Mukalla,Yemen,0
+Ibb,Yemen,0
+Sa`dah,Yemen,0
+Sanaa,Yemen,1
+Ta`izz,Yemen,0
+`Ataq,Yemen,0
+Kabwe,Zambia,0
+Kafue,Zambia,0
+Kasama,Zambia,0
+Kitwe,Zambia,0
+Livingstone,Zambia,0
+Lusaka,Zambia,1
+Ndola,Zambia,0
+Bulawayo,Zimbabwe,0
+Chitungwiza,Zimbabwe,0
+Gweru,Zimbabwe,0
+Harare,Zimbabwe,1
+Hwange,Zimbabwe,0
+Karoi,Zimbabwe,0
+Masvingo,Zimbabwe,0
+Mutare,Zimbabwe,0
+Redcliff,Zimbabwe,0
+Victoria Falls,Zimbabwe,0
