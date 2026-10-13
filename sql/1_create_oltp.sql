@@ -1,3 +1,5 @@
+\set ON_ERROR_STOP on
+
 CREATE SCHEMA IF NOT EXISTS oltp;
 
 CREATE TABLE IF NOT EXISTS oltp.countries (

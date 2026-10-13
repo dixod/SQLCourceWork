@@ -1,51 +1,34 @@
-SELECT
-    country_name AS country,
-    city_name AS city,
-    affordability_score,
-    avg_salary,
-    monthly_cost_proxy,
-    affordability_tier
+\set ON_ERROR_STOP on
+
+SELECT full_date, country_name, city_name,
+       avg_salary, monthly_cost_proxy, affordability_score
 FROM olap.vw_city_affordability
-ORDER BY
-    affordability_score DESC,
-    country_name,
-    city_name
+WHERE date_key = (SELECT MAX(date_key) FROM olap.dim_date)
+  AND affordability_score IS NOT NULL
+ORDER BY affordability_score DESC, country_name, city_name
 LIMIT 20;
 
-SELECT
-    country_name AS country,
-    ROUND(AVG(affordability_score), 4) AS average_affordability_score,
-    ROUND(AVG(avg_salary), 2) AS average_salary,
-    COUNT(*) AS number_of_cities
+SELECT country_name,
+       COUNT(*) AS city_count,
+       COUNT(affordability_score) AS cities_with_complete_data,
+       ROUND(AVG(affordability_score), 4) AS average_affordability,
+       ROUND(AVG(avg_salary), 2) AS average_salary
 FROM olap.vw_city_affordability
-GROUP BY
-    country_name
-ORDER BY
-    average_affordability_score DESC,
-    average_salary DESC,
-    country_name;
+WHERE date_key = (SELECT MAX(date_key) FROM olap.dim_date)
+GROUP BY country_name
+ORDER BY average_affordability DESC NULLS LAST, country_name;
 
-SELECT
-    country_name AS country,
-    category_name AS cost_category,
-    ROUND(AVG(cost_value), 2) AS average_cost_value,
-    COUNT(*) AS number_of_rows
-FROM olap.vw_city_cost_by_category
-GROUP BY
-    country_name,
-    category_name
-ORDER BY
-    country_name,
-    category_name;
+SELECT full_date, country_name,
+       COUNT(*) AS city_count,
+       COUNT(affordability_score) AS cities_with_complete_data,
+       ROUND(AVG(affordability_score), 4) AS average_affordability
+FROM olap.vw_city_affordability
+GROUP BY full_date, country_name
+ORDER BY full_date, country_name;
 
-SELECT
-    tag_name,
-    COUNT(*) AS number_of_cities,
-    ROUND(AVG(affordability_score), 4) AS average_affordability_score,
-    ROUND(AVG(avg_salary), 2) AS average_salary
+SELECT tag_name, COUNT(DISTINCT city_id) AS city_count,
+       ROUND(AVG(affordability_score), 4) AS average_affordability
 FROM olap.vw_city_lifestyle_tags
-GROUP BY
-    tag_name
-ORDER BY
-    number_of_cities DESC,
-    tag_name;
+WHERE date_key = (SELECT MAX(date_key) FROM olap.dim_date)
+GROUP BY tag_name
+ORDER BY city_count DESC, tag_name;

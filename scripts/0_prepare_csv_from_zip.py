@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-"""Prepare five CSV files from the Kaggle cost-of-living ZIP."""
-
 from pathlib import Path
 import random
 import zipfile
@@ -8,11 +5,11 @@ import zipfile
 import pandas as pd
 
 
-ZIP_PATH = Path("cost-of-living.csv.zip")
-OUT_DIR = Path("data")
+ROOT = Path(__file__).resolve().parents[1]
+ZIP_PATH = ROOT / "cost-of-living.csv.zip"
+OUT_DIR = ROOT / "data"
 RANDOM_SEED = 0
 
-# Official Kaggle data dictionary was available, so we use the real names.
 ITEMS = [
     ("x1", "Meal, Inexpensive Restaurant", "USD", "Restaurants"),
     ("x2", "Meal for 2 People, Mid-range Restaurant, Three-course", "USD", "Restaurants"),
@@ -73,77 +70,68 @@ ITEMS = [
 
 
 def main() -> None:
-    if not ZIP_PATH.is_file():
-        raise FileNotFoundError(f"ZIP file not found: {ZIP_PATH}")
+    with zipfile.ZipFile(ZIP_PATH) as archive:
+        names = [name for name in archive.namelist() if name.lower().endswith(".csv")]
+        if len(names) != 1:
+            raise ValueError("Expected exactly one CSV in the source ZIP")
+        with archive.open(names[0]) as source:
+            df = pd.read_csv(source, encoding="utf-8-sig")
 
-    with zipfile.ZipFile(ZIP_PATH) as zf:
-        csv_names = [name for name in zf.namelist() if name.lower().endswith(".csv")]
-        if len(csv_names) != 1:
-            raise ValueError(f"Expected one CSV inside ZIP, found: {csv_names}")
-        with zf.open(csv_names[0]) as f:
-            df = pd.read_csv(f, encoding="utf-8-sig")
+    codes = [item[0] for item in ITEMS]
+    required = {"city", "country", "data_quality", *codes}
+    missing = required - set(df.columns)
+    if missing:
+        raise ValueError(f"Missing source columns: {sorted(missing)}")
+
+    df = df.rename(columns={
+        "city": "city_name", "country": "country_name", "data_quality": "data_quality_code"
+    })
+    for column in ("city_name", "country_name"):
+        df[column] = df[column].astype("string").str.strip()
+        if df[column].isna().any() or df[column].eq("").any():
+            raise ValueError(f"Empty values in {column}")
+    df["data_quality_code"] = pd.to_numeric(df["data_quality_code"], errors="raise")
+    if not df["data_quality_code"].isin([0, 1]).all():
+        raise ValueError("Data quality must be 0 or 1")
+    df["data_quality_code"] = df["data_quality_code"].astype(int)
+    if df.duplicated(["city_name", "country_name"]).any():
+        raise ValueError("Duplicate city and country in source data")
+
+    countries = df[["country_name"]].drop_duplicates().sort_values("country_name")
+    cities = df[["city_name", "country_name", "data_quality_code"]].sort_values(
+        ["country_name", "city_name"]
+    )
+    items = pd.DataFrame(ITEMS, columns=["item_code", "item_name", "unit", "category_name"])
+    values = df[["city_name", "country_name", *codes]].melt(
+        id_vars=["city_name", "country_name"], value_vars=codes,
+        var_name="item_code", value_name="cost_value"
+    )
+    values["cost_value"] = pd.to_numeric(values["cost_value"], errors="raise")
+    values = values.dropna(subset=["cost_value"])
+    if values["cost_value"].lt(0).any() or values["cost_value"].isin([float("inf"), -float("inf")]).any():
+        raise ValueError("Cost values must be finite and non-negative")
+
+    rng = random.Random(RANDOM_SEED)
+    city_pairs = list(cities[["city_name", "country_name"]].itertuples(index=False, name=None))
+    favorites = []
+    for number in range(1, 251):
+        picked = rng.sample(city_pairs, min(len(city_pairs), 1 + number % 2))
+        for index, (city_name, country_name) in enumerate(picked):
+            favorites.append([
+                f"user{number:03d}@example.com", f"User {number:03d}", city_name, country_name,
+                f"2026-01-{(number - 1) % 28 + 1:02d} {9 + index:02d}:00:00"
+            ])
+    favorites = pd.DataFrame(favorites, columns=[
+        "user_email", "user_name", "city_name", "country_name", "created_at"
+    ])
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-
-    # Clean up the source columns.
-    df = df.rename(columns={"city": "city_name", "country": "country_name", "data_quality": "data_quality_code"})
-    df["city_name"] = df["city_name"].astype(str).str.strip()
-    df["country_name"] = df["country_name"].astype(str).str.strip()
-    df["data_quality_code"] = pd.to_numeric(df["data_quality_code"], errors="raise").astype(int)
-
-    # 1) countries.csv
-    countries = df[["country_name"]].drop_duplicates().sort_values("country_name").reset_index(drop=True)
-    countries.to_csv(OUT_DIR / "countries.csv", index=False)
-
-    # 2) cities.csv
-    cities = (
-        df[["city_name", "country_name", "data_quality_code"]]
-        .drop_duplicates(subset=["city_name", "country_name"])
-        .sort_values(["country_name", "city_name"])
-        .reset_index(drop=True)
-    )
-    cities.to_csv(OUT_DIR / "cities.csv", index=False)
-
-    # 3) cost_items.csv
-    cost_items = pd.DataFrame(ITEMS, columns=["item_code", "item_name", "unit", "category_name"])
-    cost_items.to_csv(OUT_DIR / "cost_items.csv", index=False)
-
-    # 4) city_cost_values.csv
-    value_columns = [code for code, _, _, _ in ITEMS]
-    city_cost_values = df[["city_name", "country_name", *value_columns]].melt(
-        id_vars=["city_name", "country_name"],
-        value_vars=value_columns,
-        var_name="item_code",
-        value_name="cost_value",
-    )
-    city_cost_values["cost_value"] = pd.to_numeric(city_cost_values["cost_value"], errors="coerce")
-    city_cost_values = city_cost_values.dropna(subset=["cost_value"])
-    city_cost_values = city_cost_values.drop_duplicates(subset=["city_name", "country_name", "item_code"])
-    city_cost_values.to_csv(OUT_DIR / "city_cost_values.csv", index=False)
-
-    # 5) user_favorite_cities.csv
-    rng = random.Random(RANDOM_SEED)
-    users = []
-    city_pairs = cities[["city_name", "country_name"]].to_records(index=False).tolist()
-    for n in range(1, 251):
-        user_email = f"user{n:03d}@example.com"
-        user_name = f"User {n:03d}"
-        picked = rng.sample(city_pairs, 1 + n % 2)
-        for i, (city_name, country_name) in enumerate(picked):
-            created_at = f"2026-01-{(n - 1) % 28 + 1:02d} {9 + i:02d}:00:00"
-            users.append([user_email, user_name, city_name, country_name, created_at])
-
-    user_favorite_cities = pd.DataFrame(
-        users,
-        columns=["user_email", "user_name", "city_name", "country_name", "created_at"],
-    ).drop_duplicates(subset=["user_email", "city_name", "country_name"])
-    user_favorite_cities.to_csv(OUT_DIR / "user_favorite_cities.csv", index=False)
-
-    print(f"countries.csv: {len(countries)} rows")
-    print(f"cities.csv: {len(cities)} rows")
-    print(f"cost_items.csv: {len(cost_items)} rows")
-    print(f"city_cost_values.csv: {len(city_cost_values)} rows")
-    print(f"user_favorite_cities.csv: {len(user_favorite_cities)} rows")
+    for name, frame in [
+        ("countries", countries), ("cities", cities), ("cost_items", items),
+        ("city_cost_values", values), ("user_favorite_cities", favorites)
+    ]:
+        frame.to_csv(OUT_DIR / f"{name}.csv", index=False)
+        print(f"{name}.csv: {len(frame)} rows")
 
 
 if __name__ == "__main__":

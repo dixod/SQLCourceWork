@@ -1,67 +1,38 @@
-CREATE OR REPLACE VIEW olap.vw_city_affordability AS
-SELECT
-    dc.country_name,
-    dcs.city_name,
-    ddq.data_quality_code,
-    dcs.affordability_tier,
-    dcs.salary_tier,
-    dcs.rent_tier,
-    fas.avg_salary,
-    fas.monthly_cost_proxy,
-    fas.affordability_score,
-    fas.restaurants_cost_total,
-    fas.groceries_cost_total,
-    fas.transport_cost_total,
-    fas.housing_cost_total
-FROM olap.fact_affordability_snapshot fas
-JOIN olap.dim_city_scd dcs
-    ON dcs.city_key = fas.city_key
-JOIN olap.dim_country dc
-    ON dc.country_key = dcs.country_key
-JOIN olap.dim_data_quality ddq
-    ON ddq.data_quality_key = dcs.data_quality_key
-WHERE dcs.is_current = TRUE;
+\set ON_ERROR_STOP on
 
+CREATE OR REPLACE VIEW olap.vw_city_affordability AS
+SELECT f.date_key, d.full_date, c.city_key, c.city_id,
+       country.country_name, c.city_name, q.data_quality_code,
+       c.affordability_tier, c.salary_tier, c.rent_tier,
+       f.avg_salary, f.rent_cost, f.food_cost, f.transport_cost,
+       f.utilities_cost, f.internet_cost,
+       f.monthly_cost_proxy, f.affordability_score
+FROM olap.fact_affordability_snapshot f
+JOIN olap.dim_date d ON d.date_key = f.date_key
+JOIN olap.dim_city_scd c ON c.city_key = f.city_key
+JOIN olap.dim_country country ON country.country_key = c.country_key
+JOIN olap.dim_data_quality q ON q.data_quality_key = c.data_quality_key;
 
 CREATE OR REPLACE VIEW olap.vw_city_cost_by_category AS
-SELECT
-    dc.country_name,
-    dcs.city_name,
-    dcc.category_name,
-    dci.item_name,
-    dci.unit,
-    fcc.cost_value,
-    dd.full_date
-FROM olap.fact_city_cost fcc
-JOIN olap.dim_city_scd dcs
-    ON dcs.city_key = fcc.city_key
-JOIN olap.dim_country dc
-    ON dc.country_key = dcs.country_key
-JOIN olap.dim_cost_item dci
-    ON dci.item_key = fcc.item_key
-JOIN olap.dim_cost_category dcc
-    ON dcc.category_key = dci.category_key
-JOIN olap.dim_date dd
-    ON dd.date_key = fcc.date_key
-WHERE dcs.is_current = TRUE;
-
+SELECT f.date_key, d.full_date, c.city_key, c.city_id,
+       country.country_name, c.city_name,
+       category.category_name, i.item_key, i.item_code, i.item_name, i.unit,
+       f.cost_value
+FROM olap.fact_city_cost f
+JOIN olap.dim_date d ON d.date_key = f.date_key
+JOIN olap.dim_city_scd c ON c.city_key = f.city_key
+JOIN olap.dim_country country ON country.country_key = c.country_key
+JOIN olap.dim_cost_item i ON i.item_key = f.item_key
+JOIN olap.dim_cost_category category ON category.category_key = i.category_key;
 
 CREATE OR REPLACE VIEW olap.vw_city_lifestyle_tags AS
-SELECT
-    dc.country_name,
-    dcs.city_name,
-    dlt.tag_name,
-    dlt.tag_description,
-    fas.affordability_score,
-    fas.avg_salary,
-    fas.monthly_cost_proxy
-FROM olap.bridge_city_lifestyle_tag bclt
-JOIN olap.dim_city_scd dcs
-    ON dcs.city_key = bclt.city_key
-JOIN olap.dim_country dc
-    ON dc.country_key = dcs.country_key
-JOIN olap.dim_lifestyle_tag dlt
-    ON dlt.lifestyle_tag_key = bclt.lifestyle_tag_key
-JOIN olap.fact_affordability_snapshot fas
-    ON fas.city_key = dcs.city_key
-WHERE dcs.is_current = TRUE;
+SELECT b.date_key, d.full_date, c.city_key, c.city_id,
+       country.country_name, c.city_name, t.tag_name, t.tag_description,
+       f.avg_salary, f.monthly_cost_proxy, f.affordability_score
+FROM olap.bridge_city_lifestyle_tag b
+JOIN olap.dim_date d ON d.date_key = b.date_key
+JOIN olap.dim_city_scd c ON c.city_key = b.city_key
+JOIN olap.dim_country country ON country.country_key = c.country_key
+JOIN olap.dim_lifestyle_tag t ON t.lifestyle_tag_key = b.lifestyle_tag_key
+JOIN olap.fact_affordability_snapshot f
+    ON f.city_key = b.city_key AND f.date_key = b.date_key;
